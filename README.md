@@ -1,57 +1,62 @@
-# Data Cleaning & Visualization Project
+# Predictive Modeling Using Machine Learning
 
-Internship task: work on a raw dataset to clean, process, and visualize insights.
+Internship task: build a model to predict outcomes based on given data.
 
 ## Overview
-This project takes a raw, messy retail sales dataset (1,200+ orders) and:
-1. Cleans it — handles missing values, duplicates, outliers, and inconsistent formatting
-2. Processes it — standardizes types, parses mixed date formats, engineers derived columns
-3. Visualizes it — builds a summary dashboard and supporting charts
+This project builds and compares three supervised classification models to predict **customer churn** (whether a telecom customer will leave) based on their account and usage data.
 
 ## Project Structure
 ```
-data-cleaning-viz-project/
+predictive-modeling-project/
 ├── data/
-│   ├── generate_raw_data.py     # Creates the synthetic raw dataset
-│   ├── raw_sales_data.csv       # Raw, messy dataset (input)
-│   └── clean_sales_data.csv     # Cleaned dataset (output)
+│   ├── generate_data.py         # Creates the synthetic churn dataset
+│   └── customer_churn.csv       # Dataset (2,000 customers)
 ├── notebooks/
-│   ├── 01_data_cleaning.py      # Cleaning & preprocessing pipeline
-│   └── 02_visualization.py      # Visualization / dashboard generation
+│   ├── 01_model_training.py     # Full training + evaluation pipeline
+│   └── predictive_modeling.ipynb# Notebook version with all outputs
 ├── outputs/
-│   ├── dashboard.png            # Combined 4-chart dashboard
-│   ├── unit_price_distribution.png
-│   ├── correlation_heatmap.png
-│   └── category_summary.csv
+│   ├── confusion_matrices.png   # Confusion matrix for each model
+│   ├── roc_curves.png           # ROC curve comparison
+│   ├── feature_importance.png   # Random Forest feature importance
+│   ├── model_comparison.csv     # Accuracy/precision/recall/F1/AUC table
+│   └── best_model_report.txt    # Classification report for best model
 ├── requirements.txt
 └── README.md
 ```
 
-## Data Issues Handled
-| Issue | How it was handled |
-|---|---|
-| Missing values (`unit_price`, `units_sold`, `region`, `payment_mode`) | Numeric columns filled with category-wise median; categorical columns filled with mode |
-| Duplicate rows | Detected and removed via `order_id`, keeping first occurrence |
-| Outliers in `units_sold` / `unit_price` | Detected with the IQR method and capped at the outlier boundary |
-| Inconsistent text casing/whitespace (`" ELECTRONICS "`, `"electronics"`) | Stripped and standardized to title case |
-| Mixed date formats (`YYYY-MM-DD`, `DD/MM/YYYY`, `DD-Mon-YYYY`, `MM/DD/YYYY`) | Parsed with format-by-format matching into a single `datetime64` column |
+## Dataset
+2,000 customer records with features: age, tenure, contract type, monthly/total charges, internet add-on, number of support calls, tech issues reported, and payment delay days. Target: `churned` (1 = churned, 0 = retained).
 
-## Key Insights
-- Revenue is fairly evenly spread across categories, with **Books** and **Home & Kitchen** leading
-- Monthly revenue shows [seasonal fluctuation — see `dashboard.png`]
-- **Electronics** has the highest order count but lowest average order value
-- `units_sold`, `unit_price`, and `revenue` correlations are shown in `correlation_heatmap.png`
+## Approach
+1. **Preprocessing** — label-encoded categorical features (`contract_type`, `internet_addon`), scaled numeric features for Logistic Regression
+2. **Train/test split** — 80/20, stratified on the target to preserve class balance
+3. **Models trained**:
+   - Logistic Regression
+   - Decision Tree (max depth 6)
+   - Random Forest (200 trees, max depth 8)
+4. **Evaluation** — accuracy, precision, recall, F1 score, ROC-AUC, confusion matrices, ROC curves
+
+## Results
+| Model | Accuracy | Precision | Recall | F1 | ROC AUC |
+|---|---|---|---|---|---|
+| Logistic Regression | 0.728 | 0.708 | 0.755 | 0.731 | 0.795 |
+| Decision Tree | 0.680 | 0.677 | 0.663 | 0.670 | 0.740 |
+| Random Forest | 0.698 | 0.694 | 0.684 | 0.689 | 0.773 |
+
+**Best model: Logistic Regression**, with the strongest ROC-AUC (0.795), suggesting the churn signal in this data is largely linear/additive rather than requiring complex interactions.
+
+Top predictive features (from Random Forest importance): contract type, tenure, and support call frequency — consistent with real-world churn drivers.
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python data/generate_raw_data.py      # (optional) regenerate raw data
-python notebooks/01_data_cleaning.py  # clean the data
-python notebooks/02_visualization.py  # generate charts
+python data/generate_data.py         # (optional) regenerate the dataset
+python notebooks/01_model_training.py # train models & generate outputs
 ```
+Or open `notebooks/predictive_modeling.ipynb` in Jupyter to run interactively.
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Seaborn
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## Expected Outcome
-This project demonstrates a full data preprocessing and visualization workflow: identifying data quality issues, applying appropriate cleaning strategies, and communicating findings through clear visual storytelling.
+This project demonstrates the supervised learning workflow end-to-end: feature preparation, training multiple algorithm types, and evaluating/comparing them using accuracy metrics, confusion matrices, and ROC curves rather than relying on a single number.
