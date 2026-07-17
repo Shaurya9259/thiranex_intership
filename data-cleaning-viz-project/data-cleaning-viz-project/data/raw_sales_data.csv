@@ -1,0 +1,1231 @@
+order_id,order_date,category,region,payment_mode,units_sold,unit_price,revenue
+1508,06/03/2025,SPORTS,east,Net Banking,17.0,300.47,5107.99
+1741,2025-08-13,Clothing,north,Credit Card,22.0,367.09,8075.98
+1279,26-Mar-2025,Electronics,  North  ,Cash,8.0,12.12,96.96
+1930,10/10/2025,  Electronics  ,WEST,Debit Card,20.0,165.54,3310.8
+1633,2025-07-11,  Sports  ,north,Cash,5.0,,
+2045,2025-11-13,Electronics,South,Credit Card,18.0,318.04,5724.72
+1518,06/06/2025,Sports,west,Net Banking,13.0,309.49,4023.37
+1656,07/18/2025,toys,West,Net Banking,3.0,,
+2038,11/11/2025,Clothing,,,14.0,166.84,2335.76
+1759,19-Aug-2025,Home & Kitchen,North,Credit Card,18.0,423.11,7615.98
+1035,11-Jan-2025,toys,North,Net Banking,23.0,96.9,2228.7
+2018,05/11/2025,Books,West,Credit Card,22.0,479.03,10538.66
+1147,14-Feb-2025,Books,EAST,Debit Card,10.0,,
+1722,07/08/2025,Electronics,East,Cash,10.0,189.86,1898.6
+1351,17-Apr-2025,Electronics,South,UPI,19.0,305.39,5802.41
+1136,02/10/2025,sports,,UPI,5.0,422.45,2112.25
+1489,2025-05-29,sports,,Credit Card,24.0,315.53,7572.72
+1455,18-May-2025,Clothing,EAST,UPI,,,
+1273,2025-03-24,Clothing,south,Credit Card,15.0,183.41,2751.15
+1756,08/18/2025,sports,  West  ,Debit Card,7.0,77.49,542.43
+1793,2025-08-29,Toys,south,Credit Card,19.0,115.22,2189.18
+2180,12/24/2025,Home & Kitchen,West,Debit Card,23.0,292.42,6725.66
+1173,2025-02-22,Toys,WEST,Debit Card,8.0,9.14,73.12
+1680,07/26/2025,sports,NORTH,,5.0,178.66,893.3
+2013,2025-11-04,  Home & Kitchen  ,,Net Banking,6.0,181.52,1089.12
+1111,03-Feb-2025,  Home & Kitchen  ,East,Credit Card,18.0,62.12,1118.16
+1263,21-Mar-2025,ELECTRONICS,South,Net Banking,10.0,166.69,1666.9
+1364,04/21/2025,Electronics,SOUTH,Cash,14.0,449.2,6288.8
+1281,2025-03-27,Books,  South  ,UPI,7.0,313.75,2196.25
+1833,2025-09-10,BOOKS,east,Net Banking,10.0,356.17,3561.7
+1129,2025-02-08,HOME & KITCHEN,east,Cash,20.0,345.87,6917.4
+1217,2025-03-07,electronics,South,Cash,6.0,194.49,1166.94
+1825,2025-09-08,  Toys  ,South,Credit Card,3.0,394.75,1184.25
+1666,21/07/2025,books,west,Debit Card,,218.46,
+1937,2025-10-12,  Books  ,North,Net Banking,16.0,141.58,2265.28
+1463,21-May-2025,  Sports  ,East,Credit Card,12.0,142.93,1715.16
+1588,06/28/2025,  Electronics  ,West,Net Banking,13.0,85.58,1112.54
+1464,05/21/2025,Electronics,South,Cash,9.0,113.26,1019.34
+1052,01/16/2025,Clothing,North,UPI,3.0,476.64,1429.92
+1797,2025-08-30,Sports,south,UPI,15.0,84.31,1264.65
+1753,2025-08-17,Books,  West  ,Credit Card,3.0,217.09,651.27
+1903,01-Oct-2025,CLOTHING,West,Credit Card,15.0,311.6,4674.0
+1591,29-Jun-2025,Toys,south,Cash,12.0,484.2,5810.4
+1946,14/10/2025,  Toys  ,west,UPI,4.0,69.83,279.32
+1171,21-Feb-2025,BOOKS,East,Cash,3.0,330.08,990.24
+1761,2025-08-19,toys,West,Net Banking,20.0,192.63,3852.6
+1878,24/09/2025,sports,West,Cash,22.0,152.16,3347.52
+1028,01/09/2025,Electronics,north,UPI,1.0,383.4,383.4
+1475,24-May-2025,Sports,north,Debit Card,9.0,48.07,432.63
+1507,03-Jun-2025,TOYS,East,Debit Card,13.0,217.84,2831.92
+1064,01/20/2025,TOYS,South,Net Banking,7.0,340.09,2380.63
+1668,07/22/2025,Books,North,Credit Card,18.0,29.92,538.56
+1893,2025-09-28,  Home & Kitchen  ,East,Debit Card,2.0,496.33,992.66
+1537,2025-06-12,Electronics,West,UPI,11.0,192.98,2122.78
+1448,05/16/2025,  Books  ,North,UPI,12.0,67.37,808.44
+1984,10/26/2025,Books,  North  ,Debit Card,23.0,397.13,9133.99
+2194,29/12/2025,TOYS,South,Debit Card,24.0,193.57,4645.68
+1102,31/01/2025,electronics,North,Debit Card,3.0,,
+1373,2025-04-23,Electronics,North,Credit Card,13.0,409.4,5322.2
+1152,02/15/2025,  Sports  ,South,Cash,21.0,197.76,4152.96
+1290,29/03/2025,Books,NORTH,Credit Card,8.0,292.57,2340.56
+2084,11/25/2025,TOYS,North,Net Banking,20.0,293.65,5873.0
+1047,14-Jan-2025,Clothing,  South  ,Credit Card,21.0,180.13,3782.73
+1726,09/08/2025,home & kitchen,east,Net Banking,10.0,209.52,2095.2
+1925,2025-10-08,ELECTRONICS,South,Credit Card,9.0,55.91,503.19
+1378,25/04/2025,TOYS,North,Cash,23.0,40.16,923.68
+1996,10/30/2025,Toys,SOUTH,Debit Card,18.0,365.75,6583.5
+1586,27/06/2025,electronics,EAST,UPI,2.0,35.6,71.2
+1854,16/09/2025,HOME & KITCHEN,north,Debit Card,6.0,248.81,1492.86
+1649,2025-07-16,Clothing,East,Debit Card,6.0,490.38,2942.28
+2131,10-Dec-2025,  Toys  ,East,Net Banking,14.0,477.51,6685.14
+1579,25-Jun-2025,Home & Kitchen,SOUTH,Credit Card,763.0,134.22,102409.86
+1783,26-Aug-2025,Home & Kitchen,West,UPI,13.0,136.63,1776.19
+2142,13/12/2025,Books,West,Credit Card,20.0,108.37,2167.4
+1456,19/05/2025,Clothing,East,Net Banking,9.0,118.76,1068.84
+2058,17/11/2025,Electronics,West,Net Banking,9.0,224.3,2018.7
+1563,20-Jun-2025,Sports,West,Cash,16.0,424.81,6796.96
+1699,31-Jul-2025,TOYS,west,Credit Card,2.0,343.51,687.02
+1110,03/02/2025,  Home & Kitchen  ,East,Cash,19.0,268.59,5103.21
+2024,11/07/2025,ELECTRONICS,south,Cash,19.0,305.53,5805.07
+2006,02/11/2025,toys,East,Credit Card,17.0,56.2,955.4
+1642,14/07/2025,  Electronics  ,North,,6.0,10.35,62.1
+2095,29-Nov-2025,sports,South,Credit Card,9.0,161.31,1451.79
+1061,2025-01-19,books,East,Net Banking,4.0,254.05,1016.2
+1880,09/24/2025,Sports,East,Debit Card,7.0,208.6,1460.2
+1922,07/10/2025,Electronics,North,Cash,7.0,383.85,2686.95
+1908,10/03/2025,sports,South,Debit Card,1.0,426.03,426.03
+1142,12/02/2025,CLOTHING,NORTH,Debit Card,22.0,,
+1413,2025-05-06,Clothing,EAST,Net Banking,19.0,255.23,4849.37
+2147,2025-12-14,sports,South,Net Banking,9.0,290.61,2615.49
+1876,09/23/2025,CLOTHING,North,Cash,16.0,443.61,7097.76
+1114,04/02/2025,SPORTS,East,Credit Card,21.0,171.92,3610.32
+2043,13-Nov-2025,Electronics,SOUTH,Credit Card,20.0,161.04,3220.8
+1956,10/17/2025,Toys,South,Net Banking,14.0,11.77,164.78
+1879,24-Sep-2025,clothing,SOUTH,Cash,4.0,118.85,475.4
+1472,05/23/2025,  Sports  ,east,Debit Card,2.0,190.4,380.8
+2175,23-Dec-2025,HOME & KITCHEN,EAST,Net Banking,1.0,92.69,92.69
+1352,04/17/2025,Books,,UPI,22.0,441.08,9703.76
+1010,03/01/2025,sports,  South  ,Cash,22.0,316.97,6973.34
+1368,04/22/2025,  Books  ,South,UPI,21.0,424.46,8913.66
+1054,17/01/2025,electronics,east,Debit Card,15.0,180.44,2706.6
+1524,06/08/2025,BOOKS,North,Net Banking,17.0,277.82,4722.94
+2123,07-Dec-2025,Electronics,East,Net Banking,9.0,196.7,1770.3
+2129,2025-12-09,  Home & Kitchen  ,North,Debit Card,9.0,470.55,4234.95
+1286,28/03/2025,Electronics,west,Cash,1.0,283.88,283.88
+1180,02/24/2025,Electronics,north,Net Banking,8.0,276.47,2211.76
+1041,2025-01-13,Electronics,East,Debit Card,18.0,148.15,2666.7
+1452,05/17/2025,Electronics,West,Net Banking,5.0,286.03,1430.15
+1698,31/07/2025,Electronics,South,Debit Card,2.0,467.21,934.42
+1598,01/07/2025,Sports,South,UPI,20.0,378.16,7563.2
+1714,05/08/2025,Home & Kitchen,South,Credit Card,22.0,332.58,7316.76
+1190,27/02/2025,Toys,WEST,Net Banking,22.0,312.13,6866.86
+1084,01/26/2025,Toys,east,Credit Card,17.0,87.05,1479.85
+1570,22/06/2025,SPORTS,east,Debit Card,4.0,10.09,40.36
+1883,25-Sep-2025,home & kitchen,east,Debit Card,22.0,413.9,9105.8
+1972,10/22/2025,  Books  ,South,Debit Card,8.0,,
+1099,30-Jan-2025,ELECTRONICS,South,Debit Card,5.0,280.65,1403.25
+1558,19/06/2025,Clothing,north,UPI,1.0,466.94,466.94
+1774,23/08/2025,TOYS,South,Debit Card,11.0,483.04,5313.44
+1380,04/26/2025,Home & Kitchen,  East  ,Credit Card,2.0,118.54,237.08
+1504,06/02/2025,Sports,South,Cash,21.0,381.48,8011.08
+2107,02-Dec-2025,Home & Kitchen,SOUTH,UPI,15.0,64.62,969.3
+1419,07-May-2025,Toys,NORTH,Credit Card,24.0,232.49,5579.76
+1916,10/05/2025,Clothing,west,Net Banking,15.0,410.1,6151.5
+1229,2025-03-11,BOOKS,EAST,Credit Card,14.0,348.85,4883.9
+1232,03/12/2025,Books,north,UPI,15.0,135.99,2039.85
+2023,07-Nov-2025,Toys,West,Cash,9.0,193.09,1737.81
+2188,12/27/2025,Clothing,  East  ,Net Banking,14.0,,
+1254,18/03/2025,Home & Kitchen,  West  ,Credit Card,14.0,450.98,6313.72
+2190,27/12/2025,Home & Kitchen,,Debit Card,10.0,143.77,1437.7
+1512,06/05/2025,Clothing,West,Credit Card,21.0,414.64,8707.44
+1055,17-Jan-2025,Clothing,West,Net Banking,9.0,255.29,2297.61
+1523,08-Jun-2025,Home & Kitchen,South,Debit Card,22.0,22.28,490.16
+1904,10/02/2025,books,WEST,Net Banking,21.0,208.54,4379.34
+1684,27/07/2025,  Clothing  ,west,Cash,23.0,108.48,2495.04
+2116,12/05/2025,CLOTHING,WEST,UPI,13.0,498.89,6485.57
+1400,05/02/2025,Sports,east,Cash,5.0,109.2,546.0
+1098,30/01/2025,  Sports  ,south,Cash,18.0,310.07,5581.26
+1408,05/04/2025,Toys,east,UPI,12.0,,
+1637,2025-07-13,books,  West  ,Credit Card,11.0,285.47,3140.17
+2070,21/11/2025,Sports,south,Net Banking,10.0,57.21,572.1
+2014,04/11/2025,sports,  West  ,Cash,1.0,130.97,130.97
+1858,18/09/2025,ELECTRONICS,East,Credit Card,19.0,267.32,5079.08
+1307,03-Apr-2025,Toys,  South  ,,3.0,358.97,1076.91
+1013,2025-01-04,Toys,East,Debit Card,3.0,216.66,649.98
+2078,23/11/2025,electronics,EAST,,20.0,346.21,6924.2
+1205,2025-03-03,ELECTRONICS,south,Credit Card,12.0,359.62,4315.44
+1370,23/04/2025,  Books  ,South,,15.0,170.96,2564.4
+1638,13/07/2025,Electronics,South,Debit Card,24.0,330.23,7925.52
+1474,24/05/2025,ELECTRONICS,  West  ,Debit Card,9.0,186.86,1681.74
+1014,04/01/2025,sports,south,Net Banking,20.0,224.06,4481.2
+2159,18-Dec-2025,Electronics,NORTH,Net Banking,17.0,299.86,5097.62
+1557,2025-06-18,TOYS,East,Cash,21.0,335.59,7047.39
+2065,2025-11-20,clothing,West,UPI,2.0,241.85,483.7
+1453,2025-05-18,Home & Kitchen,west,,22.0,291.76,6418.72
+1021,2025-01-07,SPORTS,North,Net Banking,8.0,15.85,126.8
+1619,07-Jul-2025,Books,EAST,Credit Card,11.0,416.32,4579.52
+1307,03/04/2025,Toys,South,,3.0,358.97,1076.91
+1882,25/09/2025,Home & Kitchen,West,Debit Card,24.0,337.83,8107.92
+2171,22-Dec-2025,Sports,NORTH,Net Banking,8.0,470.74,3765.92
+1485,2025-05-27,electronics,EAST,Net Banking,13.0,135.31,1759.03
+1743,14-Aug-2025,Books,West,UPI,23.0,114.12,2624.76
+2015,04-Nov-2025,BOOKS,North,Cash,5.0,11.38,56.9
+1652,07/17/2025,Clothing,West,Cash,14.0,299.45,4192.3
+1253,2025-03-18,Books,  East  ,Credit Card,15.0,166.02,2490.3
+1206,04/03/2025,Clothing,  East  ,,6.0,139.12,834.72
+1018,06/01/2025,Toys,North,Debit Card,6.0,413.25,2479.5
+1818,06/09/2025,Electronics,EAST,Credit Card,14.0,30.06,420.84
+1510,04/06/2025,Clothing,,Net Banking,22.0,385.88,8489.36
+2027,08-Nov-2025,HOME & KITCHEN,EAST,Credit Card,2.0,52.01,104.02
+1432,05/11/2025,Sports,NORTH,Debit Card,21.0,420.85,8837.85
+1565,2025-06-21,SPORTS,EAST,Credit Card,11.0,443.0,4873.0
+1116,02/04/2025,clothing,West,UPI,5.0,347.58,1737.9
+1427,10-May-2025,Clothing,West,Net Banking,23.0,335.27,7711.21
+1736,08/12/2025,BOOKS,east,Cash,13.0,88.26,1147.38
+1970,22/10/2025,Electronics,,Credit Card,16.0,,
+1326,09/04/2025,HOME & KITCHEN,East,Credit Card,2.0,230.31,460.62
+2118,06/12/2025,Home & Kitchen,South,Cash,17.0,180.59,3070.03
+1386,27/04/2025,Clothing,East,UPI,12.0,486.67,5840.04
+1141,2025-02-12,clothing,West,Credit Card,13.0,95.8,1245.4
+1936,10/11/2025,Sports,West,Debit Card,12.0,,
+1870,21/09/2025,ELECTRONICS,east,Cash,23.0,22.16,509.68
+1791,28-Aug-2025,electronics,  South  ,UPI,3.0,94.69,284.07
+2161,2025-12-19,TOYS,South,Credit Card,23.0,470.09,10812.07
+1686,27/07/2025,BOOKS,North,Cash,22.0,236.01,5192.22
+1468,05/22/2025,Clothing,North,Net Banking,18.0,463.93,8350.74
+1398,01/05/2025,Clothing,West,Debit Card,9.0,338.63,3047.67
+1928,10/09/2025,Home & Kitchen,North,Debit Card,6.0,338.55,2031.3
+1852,09/16/2025,  Clothing  ,WEST,Debit Card,7.0,377.47,2642.29
+1526,09/06/2025,  Clothing  ,,Debit Card,14.0,420.39,5885.46
+1109,2025-02-02,ELECTRONICS,South,Net Banking,10.0,317.55,3175.5
+1877,2025-09-23,Toys,WEST,Net Banking,15.0,448.37,6725.55
+2111,03-Dec-2025,BOOKS,NORTH,Credit Card,21.0,35.71,749.91
+2009,2025-11-03,Toys,North,Cash,11.0,391.01,4301.11
+1100,01/31/2025,Sports,West,UPI,24.0,210.81,5059.44
+1221,2025-03-08,Toys,NORTH,Credit Card,23.0,139.61,3211.03
+1337,2025-04-13,Home & Kitchen,East,Cash,24.0,270.29,6486.96
+2080,11/24/2025,Toys,south,Cash,22.0,157.35,3461.7
+1987,27-Oct-2025,  Electronics  ,  South  ,Cash,22.0,473.23,10411.06
+1285,2025-03-28,electronics,South,UPI,5.0,311.67,1558.35
+1319,07-Apr-2025,Sports,South,Credit Card,8.0,326.08,2608.64
+1490,29/05/2025,electronics,North,Credit Card,8.0,,
+1208,03/04/2025,Books,East,Credit Card,19.0,160.34,3046.46
+1800,08/31/2025,sports,west,UPI,8.0,379.86,3038.88
+1309,2025-04-04,  Clothing  ,North,Debit Card,3.0,,
+1592,06/29/2025,Electronics,  North  ,Cash,4.0,226.12,904.48
+1859,18-Sep-2025,toys,West,UPI,22.0,,
+1621,2025-07-08,Sports,EAST,Net Banking,17.0,368.79,6269.43
+1317,2025-04-06,Electronics,North,Debit Card,16.0,346.99,5551.84
+1024,01/07/2025,Clothing,East,UPI,9.0,32.81,295.29
+1653,2025-07-17,Sports,south,Net Banking,10.0,370.74,3707.4
+1857,2025-09-17,Books,North,Net Banking,3.0,200.31,600.93
+1762,20/08/2025,Clothing,South,Debit Card,20.0,457.96,9159.2
+1375,24-Apr-2025,Clothing,west,Credit Card,8.0,469.29,3754.32
+1187,26-Feb-2025,sports,WEST,Net Banking,21.0,261.41,5489.61
+1549,2025-06-16,clothing,South,Credit Card,21.0,14.48,304.08
+1199,03/02/2025,  Home & Kitchen  ,SOUTH,Cash,5.0,328.8,1644.0
+2061,2025-11-18,  Clothing  ,NORTH,Credit Card,12.0,102.14,1225.68
+1124,02/07/2025,  Sports  ,WEST,Credit Card,18.0,397.42,7153.56
+1595,30-Jun-2025,books,  South  ,Net Banking,23.0,238.13,5476.99
+1813,2025-09-04,HOME & KITCHEN,north,Net Banking,,72.05,
+2055,16-Nov-2025,SPORTS,EAST,Debit Card,5.0,97.39,486.95
+1772,08/23/2025,Sports,  West  ,Credit Card,23.0,8.16,187.68
+1704,08/02/2025,Sports,,Credit Card,,84.8,
+1921,2025-10-07,HOME & KITCHEN,West,UPI,23.0,109.11,2509.53
+1923,07-Oct-2025,CLOTHING,  West  ,Cash,17.0,130.25,2214.25
+1148,02/14/2025,sports,west,Cash,2.0,451.38,902.76
+1942,13/10/2025,Toys,South,Debit Card,17.0,314.54,5347.18
+1519,07-Jun-2025,Books,North,Cash,,455.75,
+1225,2025-03-10,Home & Kitchen,EAST,UPI,18.0,320.01,5760.18
+2003,01-Nov-2025,Toys,West,Net Banking,16.0,416.6,6665.6
+1071,22-Jan-2025,TOYS,East,UPI,24.0,338.45,8122.8
+1839,12-Sep-2025,Electronics,West,Cash,21.0,215.93,4534.53
+1284,03/27/2025,home & kitchen,north,Net Banking,4.0,419.37,1677.48
+1172,02/21/2025,BOOKS,North,Net Banking,18.0,355.84,6405.12
+1356,04/18/2025,TOYS,West,Cash,10.0,432.18,4321.8
+1169,2025-02-21,BOOKS,East,Net Banking,19.0,234.8,4461.2
+1264,03/21/2025,Home & Kitchen,  North  ,Credit Card,10.0,375.35,3753.5
+1658,19/07/2025,Sports,North,Debit Card,8.0,90.4,723.2
+1390,29/04/2025,Electronics,West,Net Banking,18.0,142.79,2570.22
+1126,07/02/2025,Books,south,Debit Card,17.0,239.76,4075.92
+2088,11/26/2025,Clothing,,Cash,21.0,235.76,4950.96
+2062,19/11/2025,Sports,  East  ,Debit Card,7.0,67.15,470.05
+1165,2025-02-19,Electronics,North,Cash,15.0,178.51,2677.65
+1446,16/05/2025,sports,  South  ,Net Banking,19.0,229.73,4364.87
+2092,11/28/2025,Electronics,South,Net Banking,6.0,182.52,1095.12
+1657,2025-07-19,home & kitchen,North,Debit Card,6.0,56.12,336.72
+2120,12/06/2025,  Toys  ,South,,4.0,62.0,248.0
+1043,13-Jan-2025,SPORTS,EAST,UPI,3.0,128.73,386.19
+2186,26/12/2025,  Toys  ,EAST,Debit Card,13.0,15.92,206.96
+1927,09-Oct-2025,Toys,NORTH,Credit Card,13.0,489.68,6365.84
+2114,04/12/2025,CLOTHING,NORTH,Net Banking,4.0,85.15,340.6
+1265,2025-03-22,books,North,Debit Card,21.0,404.3,8490.3
+1133,2025-02-10,toys,South,Cash,22.0,,
+1552,06/17/2025,Clothing,  North  ,UPI,9.0,388.75,3498.75
+1335,12-Apr-2025,TOYS,east,Credit Card,23.0,402.39,9254.97
+1039,12-Jan-2025,Books,EAST,Debit Card,22.0,344.14,7571.08
+1531,10-Jun-2025,  Sports  ,north,Debit Card,6.0,29.56,177.36
+2109,2025-12-03,  Clothing  ,EAST,Credit Card,19.0,484.81,9211.39
+1327,09-Apr-2025,TOYS,North,UPI,2.0,335.54,671.08
+1167,20-Feb-2025,toys,east,Net Banking,11.0,39.01,429.11
+1934,11/10/2025,electronics,North,Cash,17.0,342.85,5828.45
+1072,01/22/2025,Toys,East,Credit Card,1.0,93.73,93.73
+1628,07/10/2025,clothing,West,Cash,9.0,86.38,777.42
+1721,2025-08-07,toys,NORTH,,5.0,307.86,1539.3
+1958,18/10/2025,Home & Kitchen,West,UPI,23.0,133.0,3059.0
+2146,14/12/2025,Electronics,west,Credit Card,4.0,436.6,1746.4
+1271,23-Mar-2025,home & kitchen,  South  ,Debit Card,3.0,69.39,208.17
+1005,2025-01-02,sports,North,,13.0,187.38,2435.94
+1717,2025-08-06,Electronics,EAST,Credit Card,9.0,277.58,2498.22
+1981,2025-10-25,Toys,North,Cash,20.0,265.11,5302.2
+1695,30-Jul-2025,Books,north,Credit Card,11.0,155.13,1706.43
+1755,17-Aug-2025,BOOKS,South,Debit Card,17.0,413.11,7022.87
+1362,20/04/2025,sports,east,Cash,20.0,498.63,9972.6
+1306,03/04/2025,clothing,West,Debit Card,11.0,403.18,4434.98
+1527,09-Jun-2025,Home & Kitchen,WEST,Cash,10.0,84.54,845.4
+1768,08/21/2025,Toys,west,UPI,1.0,288.66,288.66
+2017,2025-11-05,CLOTHING,  West  ,Debit Card,5.0,426.32,2131.6
+2082,25/11/2025,books,East,UPI,12.0,449.48,5393.76
+1095,29-Jan-2025,Books,NORTH,Net Banking,4.0,120.93,483.72
+1096,01/29/2025,Books,North,Net Banking,17.0,113.68,1932.56
+2127,08-Dec-2025,Toys,South,Cash,10.0,35.42,354.2
+2012,11/03/2025,  Home & Kitchen  ,East,Debit Card,17.0,,
+1632,07/11/2025,Home & Kitchen,west,Cash,18.0,175.26,3154.68
+2035,10-Nov-2025,  Books  ,South,Debit Card,7.0,497.81,3484.67
+1059,18-Jan-2025,Books,South,Debit Card,16.0,199.4,3190.4
+2054,16/11/2025,Books,SOUTH,Debit Card,9.0,311.49,2803.41
+1284,27/03/2025,Home & Kitchen,north,Net Banking,4.0,419.37,1677.48
+2173,2025-12-22,HOME & KITCHEN,  West  ,Debit Card,18.0,438.19,7887.42
+1025,2025-01-08,  Toys  ,North,Credit Card,12.0,248.09,2977.08
+1667,22-Jul-2025,Toys,east,Debit Card,13.0,177.02,2301.26
+1245,2025-03-16,Books,west,Credit Card,17.0,440.2,7483.4
+1026,08/01/2025,  Sports  ,South,Net Banking,,463.92,
+1223,09-Mar-2025,ELECTRONICS,East,Cash,11.0,135.71,1492.81
+1672,07/23/2025,Toys,,Debit Card,9.0,117.13,1054.17
+1106,01/02/2025,books,North,Net Banking,14.0,252.56,3535.84
+2091,27-Nov-2025,home & kitchen,north,Net Banking,,280.45,
+1131,09-Feb-2025,Home & Kitchen,South,UPI,13.0,9.94,129.22
+1154,16/02/2025,Sports,  West  ,Net Banking,12.0,484.19,5810.28
+2073,2025-11-22,Electronics,North,Credit Card,11.0,120.7,1327.7
+1982,25/10/2025,clothing,North,Debit Card,4.0,9699.698957941508,38798.8
+1359,19-Apr-2025,Home & Kitchen,East,Net Banking,8.0,370.03,2960.24
+1832,10/09/2025,Toys,,Net Banking,24.0,141.24,3389.76
+1076,01/23/2025,Sports,east,Cash,19.0,86.82,1649.58
+1951,16-Oct-2025,Home & Kitchen,West,UPI,20.0,173.95,3479.0
+2075,23-Nov-2025,Toys,West,Net Banking,7.0,410.93,2876.51
+1499,01-Jun-2025,Sports,west,Debit Card,8.0,107.73,861.84
+1794,29/08/2025,books,SOUTH,Net Banking,19.0,157.07,2984.33
+1994,29/10/2025,Home & Kitchen,,Net Banking,23.0,298.76,6871.48
+1856,09/17/2025,Clothing,WEST,Cash,20.0,170.53,3410.6
+1200,03/02/2025,Toys,east,Net Banking,17.0,445.12,7567.04
+1869,2025-09-21,Clothing,  South  ,Debit Card,13.0,33.06,429.78
+1135,10-Feb-2025,ELECTRONICS,north,UPI,5.0,411.59,2057.95
+1529,2025-06-10,Electronics,WEST,Cash,3.0,227.27,681.81
+1260,03/20/2025,electronics,SOUTH,UPI,11.0,38.29,421.19
+1611,05-Jul-2025,Books,East,Cash,11.0,455.04,5005.44
+1004,01/01/2025,SPORTS,West,Debit Card,11.0,138.08,1518.88
+1831,09-Sep-2025,Electronics,NORTH,UPI,24.0,,
+1211,05-Mar-2025,home & kitchen,  West  ,Credit Card,12.0,215.3,2583.6
+1197,2025-03-01,Clothing,  South  ,Net Banking,11.0,380.56,4186.16
+1599,01-Jul-2025,home & kitchen,north,Net Banking,18.0,291.06,5239.08
+2179,24-Dec-2025,Home & Kitchen,north,Credit Card,16.0,260.56,4168.96
+1719,06-Aug-2025,ELECTRONICS,WEST,Net Banking,10.0,417.65,4176.5
+1027,08-Jan-2025,books,North,,11.0,57.17,628.87
+1511,04-Jun-2025,  Books  ,  South  ,Debit Card,10.0,,
+1603,02-Jul-2025,Books,SOUTH,UPI,,,
+1829,2025-09-09,Clothing,EAST,UPI,4.0,201.85,807.4
+2136,12/11/2025,books,East,Debit Card,17.0,203.72,3463.24
+1340,04/13/2025,Toys,NORTH,UPI,,81.08,
+1062,19/01/2025,  Sports  ,SOUTH,Credit Card,1.0,100.96,100.96
+1542,14/06/2025,sports,East,UPI,23.0,387.52,8912.96
+2036,11/11/2025,SPORTS,South,Cash,15.0,,
+1458,19/05/2025,Clothing,south,Net Banking,15.0,189.23,2838.45
+1914,05/10/2025,  Clothing  ,,Net Banking,2.0,390.86,781.72
+1643,14-Jul-2025,Sports,West,Debit Card,2.0,414.14,828.28
+1779,25-Aug-2025,  Sports  ,West,Cash,,,
+1715,05-Aug-2025,home & kitchen,West,UPI,22.0,43.02,946.44
+1661,2025-07-20,books,south,UPI,11.0,469.47,5164.17
+1692,07/29/2025,Books,,Cash,2.0,412.69,825.38
+1479,26-May-2025,Home & Kitchen,East,Net Banking,24.0,91.69,2200.56
+1894,29/09/2025,Home & Kitchen,South,UPI,9.0,82.32,740.88
+1009,2025-01-03,Home & Kitchen,East,Credit Card,19.0,229.9,4368.1
+1447,16-May-2025,clothing,East,Net Banking,19.0,382.41,7265.79
+1688,07/28/2025,Electronics,south,Debit Card,6.0,421.25,2527.5
+2048,11/14/2025,Clothing,  East  ,Cash,8.0,348.24,2785.92
+1509,2025-06-04,BOOKS,north,Cash,22.0,499.78,10995.16
+1663,20-Jul-2025,ELECTRONICS,West,Net Banking,1.0,491.87,491.87
+1935,11-Oct-2025,HOME & KITCHEN,North,Net Banking,17.0,289.8,4926.6
+1620,07/07/2025,  Home & Kitchen  ,South,Debit Card,1.0,64.35,64.35
+1075,23-Jan-2025,Toys,north,Debit Card,20.0,63.19,1263.8
+1569,2025-06-22,Electronics,north,Cash,7.0,481.86,3373.02
+1873,2025-09-22,  Books  ,,,16.0,100.75,1612.0
+1058,18/01/2025,Books,East,UPI,11.0,55.77,613.47
+2032,11/09/2025,Clothing,west,Cash,13.0,224.83,2922.79
+1596,06/30/2025,electronics,South,Net Banking,5.0,332.65,1663.25
+1298,01/04/2025,Books,South,Net Banking,8.0,464.45,3715.6
+1697,2025-07-31,Electronics,North,UPI,16.0,63.73,1019.68
+1218,07/03/2025,CLOTHING,South,Debit Card,11.0,411.81,4529.91
+1993,2025-10-29,  Home & Kitchen  ,  South  ,Credit Card,24.0,318.69,7648.56
+1674,24/07/2025,clothing,west,Cash,4.0,,
+1345,2025-04-15,books,south,Debit Card,9.0,298.46,2686.14
+2150,15/12/2025,Electronics,East,Credit Card,17.0,272.44,4631.48
+1397,2025-05-01,home & kitchen,North,Net Banking,8.0,180.88,1447.04
+1689,2025-07-28,Electronics,east,UPI,4.0,114.51,458.04
+1926,08/10/2025,Toys,South,Cash,9.0,67.35,606.15
+1769,2025-08-22,CLOTHING,South,Credit Card,13.0,165.98,2157.74
+2047,14-Nov-2025,ELECTRONICS,WEST,Net Banking,9.0,,
+1890,27/09/2025,Books,NORTH,UPI,23.0,337.28,7757.44
+1862,19/09/2025,Toys,North,Credit Card,12.0,381.28,4575.36
+1888,09/27/2025,Toys,north,Credit Card,17.0,370.29,6294.93
+1267,22-Mar-2025,Electronics,North,Credit Card,12.0,498.83,5985.96
+1007,02-Jan-2025,Home & Kitchen,NORTH,Debit Card,14.0,334.9,4688.6
+1886,26/09/2025,Electronics,South,Net Banking,21.0,201.51,4231.71
+1123,07-Feb-2025,Toys,WEST,Credit Card,4.0,13.97,55.88
+1645,2025-07-15,toys,East,Credit Card,21.0,56.7,1190.7
+1139,11-Feb-2025,HOME & KITCHEN,East,Net Banking,13.0,396.82,5158.66
+1164,02/19/2025,Toys,North,Net Banking,13.0,113.96,1481.48
+1740,08/13/2025,books,south,Debit Card,9.0,253.7,2283.3
+2158,18/12/2025,Clothing,West,Cash,7.0,219.22,1534.54
+2077,2025-11-23,Toys,  East  ,Net Banking,6.0,251.57,1509.42
+1044,01/14/2025,home & kitchen,  North  ,Cash,13.0,259.93,3379.09
+1786,27/08/2025,SPORTS,North,UPI,5.0,303.75,1518.75
+2184,12/26/2025,toys,North,Debit Card,19.0,405.79,7710.01
+1320,04/07/2025,Books,South,Net Banking,17.0,141.27,2401.59
+1807,02-Sep-2025,Electronics,WEST,Debit Card,20.0,303.21,6064.2
+1802,01/09/2025,Sports,  North  ,Credit Card,21.0,46.64,979.44
+1494,30/05/2025,books,south,Net Banking,3.0,51.42,154.26
+1295,31-Mar-2025,  Electronics  ,West,UPI,4.0,197.67,790.68
+1644,07/15/2025,Toys,  East  ,Credit Card,15.0,401.49,6022.35
+1564,06/20/2025,clothing,WEST,UPI,16.0,473.84,7581.44
+1612,07/05/2025,Home & Kitchen,north,Cash,13.0,160.37,2084.81
+1505,2025-06-03,CLOTHING,  South  ,Credit Card,11.0,81.47,896.17
+1020,01/06/2025,books,West,Cash,16.0,224.74,3595.84
+1410,05/05/2025,  Books  ,SOUTH,UPI,4.0,402.88,1611.52
+1559,19-Jun-2025,home & kitchen,EAST,,23.0,136.42,3137.66
+1964,10/20/2025,Electronics,WEST,Credit Card,17.0,151.49,2575.33
+1705,2025-08-02,SPORTS,East,Debit Card,4.0,329.92,1319.68
+2096,11/29/2025,  Home & Kitchen  ,North,Net Banking,1.0,33.16,33.16
+1948,10/15/2025,  Home & Kitchen  ,North,Debit Card,17.0,,
+1832,09/10/2025,TOYS,,Net Banking,24.0,141.24,3389.76
+1138,11/02/2025,TOYS,South,Net Banking,17.0,170.15,2892.55
+1409,2025-05-04,Toys,west,Credit Card,4.0,283.89,1135.56
+1532,06/11/2025,HOME & KITCHEN,SOUTH,Cash,17.0,363.68,6182.56
+1186,26/02/2025,  Books  ,  West  ,UPI,19.0,,
+2072,11/22/2025,electronics,  South  ,Debit Card,22.0,274.45,6037.9
+2057,2025-11-17,home & kitchen,  South  ,Credit Card,20.0,145.85,2917.0
+2163,19-Dec-2025,Books,East,Cash,20.0,295.38,5907.6
+1572,06/23/2025,  Electronics  ,,Credit Card,19.0,354.59,6737.21
+1431,11-May-2025,books,North,Debit Card,21.0,271.32,5697.72
+2153,2025-12-16,Toys,south,Cash,10.0,454.47,4544.7
+1780,08/25/2025,clothing,  West  ,Credit Card,22.0,473.64,10420.08
+1328,04/10/2025,toys,,Net Banking,13.0,419.5,5453.5
+1318,07/04/2025,Toys,West,UPI,2.0,350.08,700.16
+2160,12/18/2025,Toys,,Net Banking,21.0,44.9,942.9
+1421,2025-05-08,TOYS,West,Cash,19.0,412.08,7829.52
+1541,2025-06-13,Books,North,Credit Card,20.0,67.12,1342.4
+1738,12/08/2025,CLOTHING,West,Net Banking,10.0,280.74,2807.4
+2076,11/23/2025,Home & Kitchen,North,Credit Card,15.0,,
+2134,10/12/2025,Home & Kitchen,WEST,Credit Card,16.0,302.89,4846.24
+1493,2025-05-30,Toys,  North  ,Debit Card,18.0,178.85,3219.3
+1792,08/29/2025,Sports,North,Debit Card,12.0,313.26,3759.12
+1149,2025-02-14,Books,SOUTH,UPI,13.0,105.72,1374.36
+1651,17-Jul-2025,CLOTHING,south,Cash,18.0,38.28,689.04
+2149,2025-12-15,  Home & Kitchen  ,South,Credit Card,24.0,402.49,9659.76
+1545,2025-06-15,Toys,West,Credit Card,17.0,285.06,4846.02
+1771,22-Aug-2025,SPORTS,West,Debit Card,20.0,139.64,2792.8
+1998,30/10/2025,Electronics,  South  ,Debit Card,23.0,334.2,7686.6
+1366,21/04/2025,Sports,north,Debit Card,14.0,486.82,6815.48
+2042,13/11/2025,BOOKS,south,Credit Card,24.0,342.68,8224.32
+1501,2025-06-01,Electronics,,Debit Card,22.0,454.68,10002.96
+2154,17/12/2025,clothing,North,Credit Card,18.0,201.17,3621.06
+2172,12/22/2025,Clothing,North,UPI,11.0,66.55,732.05
+1961,2025-10-19,books,WEST,Cash,19.0,216.07,4105.33
+1900,09/30/2025,Home & Kitchen,west,Cash,4.0,433.72,1734.88
+1233,2025-03-12,Home & Kitchen,NORTH,Credit Card,15.0,332.67,4990.05
+1535,12-Jun-2025,books,east,Net Banking,20.0,144.12,2882.4
+1610,04/07/2025,Toys,East,Credit Card,19.0,,
+1820,09/06/2025,Clothing,South,Net Banking,4.0,289.11,1156.44
+1433,2025-05-12,Electronics,South,Debit Card,11.0,494.78,5442.58
+1315,04/06/2025,Electronics,NORTH,Credit Card,19.0,87.84,1668.96
+1159,17-Feb-2025,TOYS,West,,4.0,402.89,1611.56
+1316,04/06/2025,  Books  ,South,Net Banking,6.0,252.68,1516.08
+1257,2025-03-19,  Home & Kitchen  ,south,Cash,18.0,423.21,7617.78
+1770,22/08/2025,Home & Kitchen,east,Net Banking,20.0,24.44,488.8
+1097,2025-01-30,Books,  West  ,,13.0,480.13,6241.69
+2189,2025-12-27,Toys,south,Cash,3.0,408.12,1224.36
+1745,2025-08-14,Electronics,SOUTH,Debit Card,19.0,467.48,8882.12
+1385,2025-04-27,home & kitchen,East,Net Banking,9.0,15004.928151934882,135044.35
+2191,28-Dec-2025,Books,  South  ,Debit Card,6.0,70.43,422.58
+1178,23/02/2025,  Electronics  ,East,UPI,7.0,,
+1484,05/27/2025,toys,West,UPI,,128.59,
+1329,2025-04-10,Toys,North,UPI,24.0,89.02,2136.48
+1315,06-Apr-2025,Electronics,North,Credit Card,19.0,87.84,1668.96
+1416,05/06/2025,home & kitchen,  North  ,Credit Card,17.0,140.45,2387.65
+1358,19/04/2025,toys,West,Credit Card,4.0,,
+1348,04/16/2025,BOOKS,East,UPI,21.0,20.71,434.91
+1514,05/06/2025,home & kitchen,East,Net Banking,15.0,20.08,301.2
+1299,01-Apr-2025,toys,South,Net Banking,23.0,464.92,10693.16
+1456,05/19/2025,clothing,  East  ,Net Banking,9.0,118.76,1068.84
+1566,21/06/2025,  Home & Kitchen  ,South,UPI,21.0,370.84,7787.64
+1819,06-Sep-2025,ELECTRONICS,east,Net Banking,14.0,24.5,343.0
+1795,30-Aug-2025,Electronics,  West  ,UPI,13.0,275.5,3581.5
+2141,2025-12-13,Home & Kitchen,,Net Banking,3.0,368.51,1105.53
+2195,29-Dec-2025,clothing,North,UPI,14.0,32.01,448.14
+1664,07/21/2025,Sports,East,Net Banking,17.0,133.54,2270.18
+1250,17/03/2025,Books,West,Cash,3.0,164.9,494.7
+2050,15/11/2025,toys,north,Cash,17.0,377.97,6425.49
+1016,01/05/2025,Books,South,Credit Card,21.0,468.46,9837.66
+2016,11/05/2025,toys,SOUTH,Cash,14.0,272.45,3814.3
+1160,02/18/2025,Books,South,Cash,19.0,,
+1735,11-Aug-2025,Clothing,,UPI,12.0,212.5,2550.0
+1723,08-Aug-2025,Sports,north,Net Banking,11.0,131.39,1445.29
+1361,2025-04-20,Electronics,West,UPI,20.0,402.31,8046.2
+1049,2025-01-15,Electronics,North,Net Banking,12.0,395.7,4748.4
+1203,03-Mar-2025,Electronics,  South  ,Credit Card,9.0,82.46,742.14
+1331,11-Apr-2025,Toys,East,Net Banking,2.0,390.66,781.32
+1604,07/03/2025,sports,East,Cash,17.0,8.4,142.8
+1913,2025-10-04,Books,  East  ,Credit Card,24.0,280.31,6727.44
+1113,2025-02-04,HOME & KITCHEN,WEST,Net Banking,15.0,63.02,945.3
+1339,13-Apr-2025,Sports,West,Debit Card,22.0,,
+1229,11/03/2025,Books,East,Credit Card,14.0,348.85,4883.9
+1308,04/04/2025,Clothing,West,Net Banking,8.0,298.61,2388.88
+2074,22/11/2025,Home & Kitchen,WEST,Net Banking,23.0,320.7,7376.1
+1423,09-May-2025,Clothing,West,Credit Card,17.0,212.21,3607.57
+1417,2025-05-07,ELECTRONICS,north,Cash,6.0,246.48,1478.88
+1960,10/19/2025,Sports,NORTH,Net Banking,24.0,317.53,7620.72
+1411,05-May-2025,Home & Kitchen,West,Cash,18.0,72.89,1312.02
+2117,2025-12-05,Toys,West,Cash,1.0,228.61,228.61
+1798,30/08/2025,TOYS,South,Net Banking,23.0,89.61,2061.03
+1863,19-Sep-2025,Clothing,NORTH,UPI,6.0,81.18,487.08
+1650,17/07/2025,  Home & Kitchen  ,north,Cash,22.0,111.27,2447.94
+1396,04/30/2025,Clothing,EAST,UPI,18.0,131.95,2375.1
+1622,08/07/2025,Books,South,Cash,15.0,268.07,4021.05
+1460,05/20/2025,toys,South,Net Banking,18.0,74.91,1348.38
+1573,2025-06-23,BOOKS,EAST,UPI,9.0,313.23,2819.07
+1128,02/08/2025,home & kitchen,south,Cash,15.0,316.07,4741.05
+2098,30/11/2025,sports,  West  ,Debit Card,6.0,352.54,2115.24
+1953,2025-10-17,  Sports  ,NORTH,Debit Card,8.0,464.79,3718.32
+1706,03/08/2025,SPORTS,,Net Banking,15.0,485.72,7285.8
+1607,03-Jul-2025,Books,NORTH,Cash,10.0,208.54,2085.4
+1450,17/05/2025,Toys,North,Net Banking,10.0,475.97,4759.7
+1238,13/03/2025,BOOKS,South,Debit Card,16.0,48.75,780.0
+1168,02/20/2025,Books,West,Debit Card,4.0,187.94,751.76
+1636,07/12/2025,clothing,north,Net Banking,774.0,411.39,318415.86
+1641,2025-07-14,Books,EAST,UPI,18.0,166.76,3001.68
+1081,2025-01-25,clothing,  North  ,Cash,15.0,84.87,1273.05
+1415,06-May-2025,TOYS,East,Cash,19.0,313.88,5963.72
+1675,24-Jul-2025,clothing,West,Net Banking,3.0,290.93,872.79
+1301,2025-04-02,TOYS,east,UPI,2.0,266.2,532.4
+2178,24/12/2025,Clothing,EAST,Net Banking,18.0,205.68,3702.24
+1325,2025-04-09,Home & Kitchen,south,Debit Card,6.0,354.04,2124.24
+1782,26/08/2025,Toys,SOUTH,Debit Card,24.0,392.73,9425.52
+1216,03/07/2025,HOME & KITCHEN,west,UPI,4.0,349.6,1398.4
+1627,10-Jul-2025,Clothing,east,UPI,15.0,219.75,3296.25
+1031,10-Jan-2025,Home & Kitchen,West,Cash,15.0,133.82,2007.3
+1243,15-Mar-2025,Electronics,South,Net Banking,17.0,133.49,2269.33
+1983,26-Oct-2025,Electronics,South,Credit Card,12.0,450.63,5407.56
+1210,05/03/2025,Clothing,East,UPI,16.0,111.38,1782.08
+1639,13-Jul-2025,Clothing,North,Debit Card,22.0,449.7,9893.4
+1436,05/13/2025,books,south,Debit Card,1.0,101.61,101.61
+2147,14-Dec-2025,Sports,South,Net Banking,9.0,290.61,2615.49
+2115,05-Dec-2025,ELECTRONICS,South,Debit Card,2.0,330.76,661.52
+1574,23/06/2025,clothing,West,Debit Card,11.0,495.1,5446.1
+1404,05/03/2025,BOOKS,SOUTH,Cash,11.0,433.01,4763.11
+1240,14-Mar-2025,Toys,WEST,UPI,8.0,187.33,1498.64
+1363,20-Apr-2025,Sports,North,UPI,18.0,19.86,357.48
+1272,03/24/2025,books,WEST,Net Banking,24.0,16.1,386.4
+1467,22-May-2025,Electronics,EAST,Cash,13.0,146.43,1903.59
+2089,2025-11-27,Books,East,UPI,2.0,99.02,198.04
+1784,08/26/2025,home & kitchen,east,Credit Card,9.0,495.21,4456.89
+1278,26/03/2025,CLOTHING,East,Debit Card,17.0,119.85,2037.45
+2087,26-Nov-2025,ELECTRONICS,East,Credit Card,2.0,322.28,644.56
+2164,12/20/2025,sports,NORTH,Debit Card,15.0,415.08,6226.2
+1789,2025-08-28,  Electronics  ,North,Net Banking,19.0,,
+1703,02-Aug-2025,Books,WEST,Cash,10.0,206.84,2068.4
+1443,15-May-2025,  Toys  ,South,Net Banking,9.0,430.6,3875.4
+1300,04/01/2025,home & kitchen,North,Credit Card,9.0,174.24,1568.16
+1376,04/24/2025,Electronics,North,Net Banking,18.0,47.13,848.34
+1669,2025-07-22,  Home & Kitchen  ,  West  ,Net Banking,11.0,31.12,342.32
+1811,03-Sep-2025,TOYS,NORTH,Credit Card,13.0,,
+1659,19-Jul-2025,Electronics,EAST,UPI,12.0,286.15,3433.8
+1473,2025-05-24,Sports,west,UPI,16.0,399.88,6398.08
+1587,27-Jun-2025,Sports,  West  ,Net Banking,2.0,50.72,101.44
+2170,21/12/2025,Books,  East  ,Credit Card,2.0,142.15,284.3
+1389,2025-04-28,Electronics,West,Debit Card,17.0,222.67,3785.39
+1023,07-Jan-2025,BOOKS,,UPI,17.0,253.8,4314.6
+1548,06/16/2025,home & kitchen,West,Credit Card,22.0,9280.19960908618,204164.39
+1962,19/10/2025,Clothing,North,Debit Card,6.0,276.33,1657.98
+1424,05/09/2025,Toys,NORTH,Debit Card,23.0,231.92,5334.16
+2000,10/31/2025,  Sports  ,EAST,Credit Card,19.0,174.65,3318.35
+1892,09/28/2025,HOME & KITCHEN,East,Debit Card,10.0,45.21,452.1
+1678,25/07/2025,home & kitchen,north,Debit Card,12.0,,
+1582,26-Jun-2025,  Electronics  ,,UPI,4.0,468.06,1872.24
+1143,13-Feb-2025,Books,west,Net Banking,21.0,441.87,9279.27
+1051,16-Jan-2025,Toys,south,Cash,3.0,457.33,1371.99
+1701,2025-08-01,  Toys  ,west,Debit Card,8.0,21.17,169.36
+2165,2025-12-20,BOOKS,West,Net Banking,1.0,44.69,44.69
+1082,25/01/2025,toys,North,Net Banking,11.0,46.36,509.96
+1483,27-May-2025,sports,East,Net Banking,13.0,437.67,5689.71
+1322,08/04/2025,Electronics,West,Debit Card,2.0,319.79,639.58
+2011,03-Nov-2025,Electronics,north,UPI,12.0,5.02,60.24
+1725,2025-08-08,Toys,north,Credit Card,24.0,180.67,4336.08
+2167,20-Dec-2025,Sports,East,Net Banking,5.0,316.9,1584.5
+1067,21-Jan-2025,CLOTHING,west,UPI,5.0,375.44,1877.2
+1968,10/21/2025,Books,SOUTH,Cash,1.0,445.74,445.74
+2144,12/13/2025,Toys,East,Cash,15.0,278.42,4176.3
+1778,24/08/2025,home & kitchen,west,UPI,1.0,337.19,337.19
+1418,07/05/2025,CLOTHING,East,Net Banking,16.0,45.72,731.52
+1748,08/15/2025,Toys,SOUTH,UPI,17.0,316.76,5384.92
+1065,2025-01-20,  Electronics  ,East,UPI,2.0,419.76,839.52
+1952,10/16/2025,Books,South,Cash,3.0,241.87,725.61
+1997,2025-10-30,Sports,East,Debit Card,16.0,165.15,2642.4
+1734,11/08/2025,SPORTS,South,Cash,3.0,25.75,77.25
+1492,05/30/2025,toys,North,UPI,4.0,231.87,927.48
+1749,2025-08-16,electronics,east,Cash,3.0,,
+1834,10/09/2025,SPORTS,East,UPI,4.0,139.39,557.56
+1066,20/01/2025,books,NORTH,Credit Card,24.0,430.09,10322.16
+2028,11/08/2025,Toys,East,Debit Card,15.0,160.88,2413.2
+1700,08/01/2025,Sports,EAST,Cash,23.0,,
+2021,2025-11-06,books,West,Credit Card,18.0,47.1,847.8
+1297,2025-03-31,Toys,  North  ,Net Banking,2.0,300.44,600.88
+1420,05/08/2025,Sports,south,Debit Card,12.0,156.7,1880.4
+1439,13-May-2025,books,north,Cash,11.0,248.82,2737.02
+1262,21/03/2025,Clothing,West,Debit Card,,499.45,
+1732,08/10/2025,BOOKS,East,Cash,22.0,82.62,1817.64
+1282,27/03/2025,SPORTS,  South  ,Cash,3.0,382.34,1147.02
+1665,2025-07-21,Books,  South  ,UPI,16.0,485.01,7760.16
+1713,2025-08-05,Books,North,Cash,18.0,,
+1189,2025-02-27,Home & Kitchen,WEST,UPI,11.0,337.22,3709.42
+1938,12/10/2025,  Toys  ,SOUTH,Credit Card,15.0,385.45,5781.75
+1252,03/18/2025,HOME & KITCHEN,SOUTH,Net Banking,13.0,,
+1790,28/08/2025,  Home & Kitchen  ,South,UPI,21.0,469.57,9860.97
+1733,2025-08-11,books,,UPI,5.0,414.51,2072.55
+1515,06-Jun-2025,Clothing,East,Credit Card,21.0,106.2,2230.2
+1624,07/09/2025,Electronics,South,Debit Card,6.0,248.95,1493.7
+1488,05/28/2025,Books,NORTH,,9.0,397.33,3575.97
+1274,24/03/2025,Electronics,  South  ,Debit Card,3.0,392.95,1178.85
+2059,18-Nov-2025,toys,North,Credit Card,17.0,310.47,5277.99
+2103,01-Dec-2025,sports,South,Net Banking,1.0,229.82,229.82
+1449,2025-05-17,Clothing,  East  ,UPI,5.0,,
+1412,05/05/2025,Books,WEST,UPI,15.0,292.45,4386.75
+1896,09/29/2025,clothing,west,Net Banking,11.0,488.75,5376.25
+1757,2025-08-18,Sports,west,Credit Card,14.0,417.3,5842.2
+1979,24-Oct-2025,  Clothing  ,NORTH,UPI,11.0,358.79,3946.69
+2056,11/17/2025,  Home & Kitchen  ,East,UPI,18.0,17.72,318.96
+1150,15/02/2025,Toys,South,Debit Card,19.0,38.15,724.85
+1219,08-Mar-2025,Clothing,North,Debit Card,1.0,331.46,331.46
+1240,03/14/2025,TOYS,WEST,UPI,8.0,187.33,1498.64
+1758,18/08/2025,toys,West,Debit Card,17.0,272.45,4631.65
+1193,2025-02-28,toys,west,Debit Card,12.0,101.51,1218.12
+1192,02/27/2025,Electronics,east,Debit Card,15.0,89.09,1336.35
+1618,07/07/2025,  Electronics  ,north,UPI,11.0,217.83,2396.13
+2094,28/11/2025,Books,EAST,Debit Card,10.0,15.36,153.6
+1634,12/07/2025,Home & Kitchen,East,UPI,20.0,331.04,6620.8
+1744,08/14/2025,SPORTS,  East  ,Net Banking,2.0,443.66,887.32
+1875,23-Sep-2025,Sports,NORTH,Cash,14.0,133.61,1870.54
+1986,27/10/2025,clothing,WEST,Credit Card,24.0,341.42,8194.08
+1747,15-Aug-2025,home & kitchen,North,Debit Card,7.0,319.53,2236.71
+1583,26-Jun-2025,toys,East,Credit Card,8.0,96.94,775.52
+2084,2025-11-25,Toys,north,Net Banking,20.0,293.65,5873.0
+1324,04/09/2025,books,west,Net Banking,16.0,93.78,1500.48
+1977,2025-10-24,Electronics,North,Debit Card,12.0,206.26,2475.12
+1902,01/10/2025,Sports,  North  ,,20.0,236.5,4730.0
+1796,08/30/2025,sports,  East  ,Net Banking,7.0,211.51,1480.57
+1438,13/05/2025,Sports,east,Cash,12.0,372.11,4465.32
+1814,04/09/2025,  Sports  ,South,Debit Card,16.0,119.58,1913.28
+1884,09/26/2025,Home & Kitchen,West,Credit Card,21.0,338.18,7101.78
+1342,14/04/2025,Books,  East  ,UPI,7.0,142.12,994.84
+1003,01-Jan-2025,Home & Kitchen,West,Cash,19.0,271.47,5157.93
+1230,11/03/2025,clothing,West,Cash,18.0,113.26,2038.68
+1681,2025-07-26,Clothing,South,Cash,18.0,184.47,3320.46
+2183,25-Dec-2025,  Home & Kitchen  ,West,UPI,6.0,243.23,1459.38
+1077,2025-01-24,Clothing,West,Credit Card,10.0,5.99,59.9
+2132,12/10/2025,toys,NORTH,Net Banking,10.0,79.96,799.6
+1372,04/23/2025,  Sports  ,North,Net Banking,4.0,487.79,1951.16
+1181,2025-02-24,  Electronics  ,West,Debit Card,5.0,37.9,189.5
+1751,16-Aug-2025,ELECTRONICS,North,Credit Card,20.0,267.99,5359.8
+1578,25/06/2025,Electronics,EAST,Cash,24.0,224.19,5380.56
+1944,10/14/2025,SPORTS,east,Credit Card,15.0,,
+1801,2025-08-31,Sports,East,Net Banking,5.0,449.49,2247.45
+2049,2025-11-15,Toys,West,Credit Card,10.0,351.8,3518.0
+2040,11/12/2025,BOOKS,North,Debit Card,19.0,204.34,3882.46
+1682,26/07/2025,Books,West,Debit Card,19.0,403.83,7672.77
+1590,28/06/2025,ELECTRONICS,East,Debit Card,23.0,79.48,1828.04
+1816,09/05/2025,Books,East,Credit Card,16.0,463.6,7417.6
+1861,2025-09-19,BOOKS,EAST,UPI,4.0,403.69,1614.76
+2019,06-Nov-2025,books,  West  ,,24.0,285.04,6840.96
+1999,30-Oct-2025,Electronics,South,Credit Card,19.0,280.51,5329.69
+1038,12/01/2025,Home & Kitchen,East,Cash,21.0,407.99,8567.79
+1354,18/04/2025,toys,,Cash,,,
+2124,12/07/2025,electronics,south,Net Banking,4.0,331.55,1326.2
+1237,2025-03-13,SPORTS,North,Cash,686.0,97.92,67173.12
+2139,12-Dec-2025,BOOKS,South,UPI,,198.91,
+1500,06/01/2025,Books,South,Net Banking,22.0,122.88,2703.36
+1554,17/06/2025,  Clothing  ,North,Net Banking,5.0,175.82,879.1
+1056,01/17/2025,  Sports  ,North,Debit Card,23.0,470.85,10829.55
+1303,02-Apr-2025,Home & Kitchen,,Debit Card,14.0,,
+1287,28-Mar-2025,HOME & KITCHEN,,UPI,15.0,314.18,4712.7
+1846,14/09/2025,toys,east,Cash,9.0,,
+1220,03/08/2025,books,East,UPI,24.0,399.14,9579.36
+1670,23/07/2025,sports,SOUTH,Debit Card,12.0,347.55,4170.6
+1388,04/28/2025,Clothing,  North  ,Credit Card,15.0,484.04,7260.6
+2102,01/12/2025,Home & Kitchen,west,Debit Card,4.0,,
+1391,29-Apr-2025,ELECTRONICS,East,Debit Card,22.0,400.16,8803.52
+1353,2025-04-17,Books,WEST,Net Banking,17.0,442.04,7514.68
+1194,28/02/2025,  Sports  ,  West  ,Debit Card,,445.75,
+1236,03/13/2025,  Toys  ,  South  ,Net Banking,13.0,381.62,4961.06
+2128,12/09/2025,Sports,SOUTH,,4.0,407.79,1631.16
+1481,2025-05-26,clothing,SOUTH,Net Banking,1.0,114.15,114.15
+1568,06/22/2025,Books,North,Credit Card,13.0,144.4,1877.2
+1117,2025-02-05,Electronics,  South  ,Net Banking,5.0,107.09,535.45
+1965,2025-10-20,Toys,East,Cash,8.0,333.59,2668.72
+1654,18/07/2025,SPORTS,NORTH,UPI,14.0,21.06,294.84
+2020,11/06/2025,Home & Kitchen,south,UPI,1.0,259.66,259.66
+2135,11-Dec-2025,CLOTHING,North,Cash,6.0,292.96,1757.76
+1840,09/12/2025,Sports,South,Net Banking,24.0,417.02,10008.48
+1821,2025-09-06,Books,East,UPI,15.0,199.48,2992.2
+1121,2025-02-06,clothing,North,Credit Card,23.0,256.36,5896.28
+1864,09/19/2025,Home & Kitchen,East,Credit Card,19.0,78.88,1498.72
+2046,14/11/2025,Books,SOUTH,,10.0,68.52,685.2
+1817,2025-09-05,toys,WEST,Credit Card,7.0,212.72,1489.04
+1063,19-Jan-2025,  Home & Kitchen  ,east,Net Banking,24.0,430.11,10322.64
+1707,03-Aug-2025,SPORTS,  West  ,Credit Card,1.0,283.28,283.28
+1454,18/05/2025,Books,,UPI,16.0,,
+1516,06/06/2025,Electronics,east,Cash,10.0,173.5,1735.0
+1571,23-Jun-2025,sports,west,UPI,15.0,,
+1224,03/09/2025,Electronics,South,Debit Card,19.0,469.84,8926.96
+1614,06/07/2025,  Sports  ,East,Debit Card,8.0,139.46,1115.68
+1222,09/03/2025,Sports,West,UPI,15.0,347.72,5215.8
+1709,2025-08-03,Sports,north,Debit Card,7.0,38.88,272.16
+1838,12/09/2025,ELECTRONICS,West,UPI,23.0,30.03,690.69
+1466,22/05/2025,Clothing,South,Debit Card,9.0,413.73,3723.57
+1053,2025-01-16,Clothing,  East  ,Debit Card,12.0,166.74,2000.88
+2122,07/12/2025,Electronics,South,Credit Card,17.0,210.34,3575.78
+1486,28/05/2025,Sports,east,Credit Card,13.0,5.32,69.16
+2169,2025-12-21,Books,North,Net Banking,16.0,392.82,6285.12
+1973,2025-10-23,Electronics,WEST,Cash,13.0,49.49,643.37
+1156,02/17/2025,Sports,EAST,Net Banking,12.0,,
+1971,22-Oct-2025,SPORTS,north,Net Banking,6.0,252.64,1515.84
+1601,2025-07-02,Electronics,NORTH,Debit Card,15.0,409.62,6144.3
+1929,2025-10-09,sports,south,Credit Card,6.0,424.21,2545.26
+1249,2025-03-17,Home & Kitchen,South,UPI,6.0,335.09,2010.54
+1442,14/05/2025,Books,North,Net Banking,15.0,183.89,2758.35
+2112,12/04/2025,Electronics,west,UPI,24.0,172.96,4151.04
+2125,2025-12-08,ELECTRONICS,  East  ,Credit Card,19.0,223.81,4252.39
+1543,14-Jun-2025,  Sports  ,north,UPI,16.0,122.28,1956.48
+1702,01/08/2025,Clothing,West,Cash,13.0,240.42,3125.46
+1118,05/02/2025,Books,North,Cash,10.0,198.97,1989.7
+2034,10/11/2025,Sports,SOUTH,Credit Card,22.0,,
+1629,2025-07-10,toys,EAST,Credit Card,14.0,62.71,877.94
+1752,08/16/2025,Sports,NORTH,Debit Card,21.0,340.33,7146.93
+1976,10/23/2025,Home & Kitchen,West,Credit Card,19.0,459.05,8721.95
+1292,03/30/2025,Electronics,NORTH,UPI,5.0,379.58,1897.9
+2068,11/20/2025,  Books  ,south,Net Banking,2.0,47.59,95.18
+1382,26/04/2025,clothing,South,Net Banking,24.0,137.94,3310.56
+1737,2025-08-12,Books,South,Net Banking,13.0,440.27,5723.51
+1991,28-Oct-2025,CLOTHING,South,Net Banking,7.0,112.86,790.02
+1201,2025-03-02,Electronics,East,Net Banking,24.0,,
+1597,2025-06-30,Toys,East,UPI,24.0,376.83,9043.92
+1569,06/22/2025,electronics,north,Cash,7.0,481.86,3373.02
+2166,20/12/2025,Sports,SOUTH,Net Banking,14.0,241.04,3374.56
+2044,11/13/2025,Books,East,Debit Card,24.0,70.94,1702.56
+1730,10/08/2025,clothing,SOUTH,Cash,8.0,200.65,1605.2
+1931,10-Oct-2025,clothing,West,UPI,20.0,339.86,6797.2
+1506,03/06/2025,CLOTHING,South,Credit Card,3.0,246.2,738.6
+1349,2025-04-16,Home & Kitchen,West,Debit Card,19.0,214.55,4076.45
+1978,24/10/2025,Sports,SOUTH,Net Banking,16.0,75.92,1214.72
+2093,28-Nov-2025,Toys,North,,15.0,456.11,6841.65
+1341,2025-04-14,ELECTRONICS,east,Debit Card,21.0,288.44,6057.24
+1616,07/06/2025,Home & Kitchen,South,Net Banking,4.0,96.39,385.56
+1155,16-Feb-2025,Books,North,Cash,21.0,37.95,796.95
+2133,2025-12-10,home & kitchen,South,Credit Card,6.0,241.32,1447.92
+1805,2025-09-02,clothing,East,Credit Card,23.0,13.21,303.83
+1078,24/01/2025,CLOTHING,SOUTH,Debit Card,18.0,360.78,6494.04
+1288,03/29/2025,Home & Kitchen,SOUTH,Debit Card,1448.0,432.89,626824.72
+1323,08-Apr-2025,Electronics,south,UPI,10.0,301.65,3016.5
+1963,20-Oct-2025,Electronics,SOUTH,UPI,1.0,91.45,91.45
+1867,20-Sep-2025,sports,South,Credit Card,9.0,207.19,1864.71
+1841,2025-09-13,sports,EAST,Debit Card,20.0,403.8,8076.0
+1083,25-Jan-2025,books,North,Net Banking,17.0,14.47,245.99
+1849,2025-09-15,Toys,south,Debit Card,5.0,,
+1465,2025-05-21,clothing,,Credit Card,7.0,95.5,668.5
+1842,13/09/2025,toys,South,Debit Card,23.0,116.04,2668.92
+1799,31-Aug-2025,HOME & KITCHEN,SOUTH,Cash,7.0,211.98,1483.86
+2200,12/31/2025,BOOKS,  North  ,Credit Card,17.0,,
+1969,2025-10-21,ELECTRONICS,West,Credit Card,5.0,290.56,1452.8
+1334,12/04/2025,HOME & KITCHEN,north,Credit Card,8.0,419.89,3359.12
+1011,04-Jan-2025,Books,NORTH,Net Banking,9.0,127.95,1151.55
+1739,13-Aug-2025,CLOTHING,South,Net Banking,4.0,119.53,478.12
+1471,23-May-2025,Electronics,West,UPI,4.0,75.79,303.16
+1033,2025-01-10,Books,east,Net Banking,21.0,84.43,1773.03
+1826,08/09/2025,Toys,NORTH,Credit Card,15.0,156.68,2350.2
+1414,06/05/2025,Clothing,WEST,Credit Card,,76.32,
+1581,2025-06-26,Clothing,South,Cash,22.0,418.11,9198.42
+1383,26-Apr-2025,Toys,NORTH,Net Banking,2.0,54.98,109.96
+1871,22-Sep-2025,CLOTHING,South,Debit Card,18.0,199.0,3582.0
+2099,30-Nov-2025,TOYS,North,Debit Card,9.0,169.02,1521.18
+2197,2025-12-30,electronics,West,Credit Card,19.0,451.69,8582.11
+2182,25/12/2025,Books,WEST,UPI,18.0,337.76,6079.68
+2168,12/21/2025,  Sports  ,SOUTH,Debit Card,11.0,415.18,4566.98
+1379,25-Apr-2025,Clothing,North,Cash,14.0,109.34,1530.76
+1090,28/01/2025,sports,North,Credit Card,20.0,262.02,5240.4
+1836,09/11/2025,TOYS,North,UPI,2.0,190.49,380.98
+1602,02/07/2025,Books,North,Cash,22.0,379.74,8354.28
+1214,06/03/2025,  Electronics  ,WEST,Net Banking,6.0,98.02,588.12
+1333,2025-04-11,  Sports  ,  North  ,Cash,3.0,,
+1134,10/02/2025,Home & Kitchen,West,Net Banking,4.0,418.88,1675.52
+1347,16-Apr-2025,Home & Kitchen,east,Debit Card,13.0,30.73,399.49
+1907,03-Oct-2025,  Toys  ,West,Net Banking,17.0,284.29,4832.93
+1008,01/03/2025,Home & Kitchen,WEST,Debit Card,18.0,394.76,7105.68
+1889,2025-09-27,books,  North  ,UPI,16.0,183.43,2934.88
+1321,2025-04-08,HOME & KITCHEN,SOUTH,Debit Card,23.0,82.32,1893.36
+2071,21-Nov-2025,Electronics,East,Cash,6.0,294.87,1769.22
+1188,02/26/2025,Electronics,South,Credit Card,2.0,74.46,148.92
+1635,12-Jul-2025,home & kitchen,North,Credit Card,20.0,466.12,9322.4
+1553,2025-06-17,Sports,WEST,UPI,2.0,121.04,242.08
+1305,2025-04-03,sports,east,Debit Card,6.0,326.51,1959.06
+1032,01/10/2025,Clothing,South,Net Banking,5.0,83.95,419.75
+1881,2025-09-25,toys,west,UPI,16.0,124.06,1984.96
+1685,2025-07-27,Books,South,Credit Card,6.0,46.92,281.52
+1322,04/08/2025,electronics,west,Debit Card,2.0,319.79,639.58
+1241,2025-03-14,Toys,east,Credit Card,20.0,219.01,4380.2
+1068,01/21/2025,books,east,Cash,7.0,222.41,1556.87
+1175,22-Feb-2025,Home & Kitchen,north,UPI,,332.53,
+1767,21-Aug-2025,clothing,  North  ,UPI,18.0,157.69,2838.42
+2199,30-Dec-2025,Home & Kitchen,North,Net Banking,10.0,112.08,1120.8
+1246,16/03/2025,HOME & KITCHEN,WEST,UPI,1.0,125.48,125.48
+1057,2025-01-18,CLOTHING,South,UPI,8.0,438.78,3510.24
+1631,11-Jul-2025,SPORTS,North,Net Banking,17.0,451.69,7678.73
+1584,06/26/2025,Sports,WEST,Debit Card,3.0,189.39,568.17
+2052,11/16/2025,toys,North,Debit Card,6.0,252.48,1514.88
+1146,14/02/2025,electronics,  East  ,Debit Card,3.0,196.97,590.91
+1091,28-Jan-2025,Clothing,North,Credit Card,24.0,,
+2143,13-Dec-2025,SPORTS,South,UPI,21.0,33.99,713.79
+1393,2025-04-30,toys,SOUTH,Debit Card,17.0,153.19,2604.23
+1901,2025-10-01,sports,West,Credit Card,16.0,148.27,2372.32
+1683,27-Jul-2025,Toys,,Debit Card,23.0,167.45,3851.35
+1311,05-Apr-2025,home & kitchen,North,Net Banking,13.0,,
+1360,04/19/2025,BOOKS,East,Cash,22.0,,
+1094,29/01/2025,electronics,West,Credit Card,1.0,198.56,198.56
+2066,20/11/2025,Sports,East,Net Banking,3.0,294.85,884.55
+2051,15-Nov-2025,SPORTS,north,Credit Card,2.0,437.07,874.14
+1377,2025-04-25,clothing,North,Debit Card,12.0,195.87,2350.44
+1244,03/15/2025,Electronics,South,Credit Card,17.0,21.67,368.39
+2105,2025-12-02,  Sports  ,West,Debit Card,10.0,467.69,4676.9
+1088,01/27/2025,Toys,west,UPI,2.0,57.15,114.3
+1215,06-Mar-2025,electronics,North,Debit Card,23.0,43.1,991.3
+1445,2025-05-15,Books,east,Cash,20.0,167.48,3349.6
+1174,22/02/2025,Toys,SOUTH,Cash,22.0,112.75,2480.5
+2187,27-Dec-2025,toys,East,UPI,24.0,491.35,11792.4
+1426,10/05/2025,Books,  North  ,Credit Card,24.0,289.27,6942.48
+2085,2025-11-26,Sports,South,Debit Card,3.0,366.46,1099.38
+1119,05-Feb-2025,Electronics,North,Debit Card,5.0,448.36,2241.8
+1120,02/06/2025,books,North,Net Banking,3.0,106.14,318.42
+1975,23-Oct-2025,clothing,South,Cash,3.0,173.77,521.31
+1221,2025-03-08,Toys,NORTH,Credit Card,23.0,139.61,3211.03
+1001,2025-01-01,BOOKS,west,Net Banking,10.0,460.78,4607.8
+1395,30-Apr-2025,clothing,West,Debit Card,24.0,69.19,1660.56
+1402,02/05/2025,Clothing,North,Debit Card,11.0,77.73,855.03
+1405,2025-05-03,Sports,north,Net Banking,19.0,81.69,1552.11
+1887,26-Sep-2025,Home & Kitchen,NORTH,Net Banking,8.0,82.38,659.04
+1899,30-Sep-2025,home & kitchen,North,UPI,17.0,291.01,4947.17
+1163,19-Feb-2025,sports,WEST,Net Banking,3.0,163.98,491.94
+1115,04-Feb-2025,CLOTHING,  South  ,Debit Card,10.0,75.71,757.1
+1671,23-Jul-2025,books,South,Credit Card,6.0,231.67,1390.02
+1151,15-Feb-2025,SPORTS,East,Cash,17.0,439.29,7467.93
+1844,09/13/2025,home & kitchen,,UPI,5.0,409.57,2047.85
+1830,09/09/2025,Books,north,Credit Card,2.0,487.03,974.06
+1562,20/06/2025,CLOTHING,West,UPI,12.0,162.19,1946.28
+1369,2025-04-22,  Electronics  ,North,Credit Card,24.0,35.89,861.36
+1544,06/14/2025,books,south,Cash,15.0,340.31,5104.65
+1478,25/05/2025,Sports,NORTH,Credit Card,22.0,398.98,8777.56
+2157,2025-12-17,home & kitchen,South,Cash,8.0,79.97,639.76
+1533,2025-06-11,Home & Kitchen,South,Cash,12.0,60.24,722.88
+1626,09/07/2025,SPORTS,WEST,UPI,22.0,300.06,6601.32
+1693,2025-07-30,Toys,WEST,Net Banking,17.0,195.38,3321.46
+1513,2025-06-05,clothing,west,Net Banking,12.0,89.5,1074.0
+2041,2025-11-12,  Home & Kitchen  ,  West  ,Credit Card,22.0,337.89,7433.58
+1073,2025-01-22,Clothing,South,UPI,1.0,348.51,348.51
+1808,09/02/2025,SPORTS,north,Credit Card,15.0,85.69,1285.35
+1259,20-Mar-2025,BOOKS,  North  ,UPI,22.0,290.47,6390.34
+1625,2025-07-09,SPORTS,North,Cash,24.0,153.47,3683.28
+1827,08-Sep-2025,HOME & KITCHEN,WEST,Credit Card,24.0,24.93,598.32
+1235,13-Mar-2025,ELECTRONICS,WEST,Credit Card,7.0,390.12,2730.84
+1136,02/10/2025,Sports,,UPI,5.0,422.45,2112.25
+1617,2025-07-07,Books,North,UPI,15.0,174.34,2615.1
+1517,2025-06-06,  Sports  ,South,Credit Card,14.0,257.74,3608.36
+1919,06-Oct-2025,Clothing,north,Debit Card,1.0,496.02,496.02
+1837,2025-09-11,Home & Kitchen,EAST,UPI,17.0,277.18,4712.06
+1843,13-Sep-2025,Clothing,,Cash,13.0,116.91,1519.83
+1803,01-Sep-2025,sports,West,Cash,14.0,199.59,2794.26
+1810,03/09/2025,Electronics,East,Credit Card,20.0,16.74,334.8
+1593,2025-06-29,Electronics,East,Credit Card,8.0,253.25,2026.0
+2083,25-Nov-2025,CLOTHING,,Credit Card,19.0,405.91,7712.29
+1502,02/06/2025,Toys,east,Cash,1.0,236.69,236.69
+1539,13-Jun-2025,CLOTHING,north,Credit Card,6.0,199.09,1194.54
+1954,17/10/2025,clothing,  West  ,Debit Card,14.0,16191.409534025599,226679.73
+1729,2025-08-10,BOOKS,South,Net Banking,23.0,39.7,913.1
+1582,26/06/2025,Electronics,,UPI,4.0,468.06,1872.24
+1344,04/15/2025,Sports,east,Cash,17.0,293.68,4992.56
+1985,2025-10-26,Home & Kitchen,North,Debit Card,1462.0,339.8,496787.6
+1898,30/09/2025,CLOTHING,EAST,Cash,22.0,331.41,7291.02
+1294,30/03/2025,HOME & KITCHEN,South,Debit Card,1.0,355.16,355.16
+1365,2025-04-21,Toys,east,UPI,18.0,313.2,5637.6
+1906,02/10/2025,Sports,east,Cash,6.0,168.49,1010.94
+1660,07/20/2025,TOYS,EAST,Cash,13.0,151.7,1972.1
+1015,05-Jan-2025,Clothing,,Credit Card,6.0,326.41,1958.46
+1687,28-Jul-2025,SPORTS,east,Net Banking,18.0,243.66,4385.88
+1087,27-Jan-2025,ELECTRONICS,South,UPI,8.0,180.36,1442.88
+1371,23-Apr-2025,Sports,SOUTH,Credit Card,22.0,38.17,839.74
+1166,20/02/2025,sports,  East  ,UPI,2.0,189.4,378.8
+1132,02/09/2025,sports,South,Credit Card,16.0,363.1,5809.6
+1336,04/12/2025,Home & Kitchen,West,Credit Card,14.0,480.66,6729.24
+1060,01/18/2025,Books,South,UPI,22.0,278.92,6136.24
+1710,04/08/2025,Home & Kitchen,east,Debit Card,17.0,,
+1940,10/13/2025,Clothing,west,UPI,23.0,347.72,7997.56
+1677,2025-07-25,Toys,West,Debit Card,24.0,412.66,9903.84
+1355,18-Apr-2025,SPORTS,South,,23.0,109.56,2519.88
+2022,06/11/2025,Toys,South,Cash,1021.0,,
+1425,2025-05-09,Electronics,South,Debit Card,1.0,363.88,363.88
+1293,2025-03-30,Books,SOUTH,Debit Card,9.0,223.94,2015.46
+1042,13/01/2025,HOME & KITCHEN,NORTH,Net Banking,4.0,158.35,633.4
+2086,26/11/2025,Home & Kitchen,east,Debit Card,15.0,185.59,2783.85
+1330,10/04/2025,Toys,  West  ,Credit Card,15.0,14.48,217.2
+1615,06-Jul-2025,Sports,  West  ,Credit Card,8.0,99.35,794.8
+1430,11/05/2025,HOME & KITCHEN,South,Net Banking,23.0,160.37,3688.51
+1080,01/24/2025,Clothing,West,Credit Card,11.0,259.89,2858.79
+1694,30/07/2025,electronics,east,Debit Card,11.0,232.27,2554.97
+1029,2025-01-09,Electronics,South,Net Banking,23.0,207.79,4779.17
+1708,08/03/2025,Toys,NORTH,Credit Card,11.0,358.8,3946.8
+1955,17-Oct-2025,Clothing,EAST,UPI,1.0,235.34,235.34
+1949,2025-10-15,Home & Kitchen,NORTH,Credit Card,19.0,27.27,518.13
+1891,28-Sep-2025,Electronics,WEST,Debit Card,10.0,138.97,1389.7
+1255,19-Mar-2025,clothing,  West  ,,23.0,498.1,11456.3
+1161,2025-02-18,Clothing,East,Cash,1.0,498.61,498.61
+1459,20-May-2025,Sports,east,UPI,16.0,332.53,5320.48
+1384,04/27/2025,Clothing,East,UPI,11.0,87.91,967.01
+1314,06/04/2025,Books,North,Credit Card,13.0,471.14,6124.82
+1085,2025-01-26,  Toys  ,  East  ,UPI,6.0,445.97,2675.82
+1575,24-Jun-2025,Sports,EAST,Debit Card,8.0,159.38,1275.04
+1763,20-Aug-2025,Home & Kitchen,East,UPI,21.0,129.33,2715.93
+1137,2025-02-11,Clothing,south,Debit Card,9.0,245.12,2206.08
+1112,02/03/2025,ELECTRONICS,  East  ,Credit Card,6.0,304.79,1828.74
+1195,28-Feb-2025,Electronics,West,Credit Card,21.0,376.24,7901.04
+1853,2025-09-16,Toys,North,Net Banking,7.0,30.39,212.73
+1179,24-Feb-2025,TOYS,East,,21.0,387.54,8138.34
+1556,06/18/2025,CLOTHING,South,Debit Card,7.0,480.94,3366.58
+1724,08/08/2025,TOYS,South,Cash,21.0,57.41,1205.61
+1860,09/18/2025,electronics,South,Debit Card,15.0,288.14,4322.1
+1497,2025-05-31,  Clothing  ,North,UPI,12.0,24.83,297.96
+1336,2025-04-12,home & kitchen,west,Credit Card,14.0,480.66,6729.24
+1806,02/09/2025,Home & Kitchen,East,Net Banking,10.0,332.55,3325.5
+1130,09/02/2025,Electronics,East,UPI,17.0,130.37,2216.29
+1716,08/06/2025,BOOKS,  East  ,Net Banking,12.0,180.56,2166.72
+1338,13/04/2025,  Clothing  ,  West  ,Cash,23.0,246.81,5676.63
+1481,26-May-2025,Clothing,  South  ,Net Banking,1.0,114.15,114.15
+1609,2025-07-04,Books,South,Net Banking,,442.87,
+1125,2025-02-07,HOME & KITCHEN,East,Cash,9.0,39.18,352.62
+1196,03/01/2025,Home & Kitchen,North,Debit Card,22.0,454.57,10000.54
+1227,10-Mar-2025,CLOTHING,EAST,UPI,19.0,138.41,2629.79
+1690,29/07/2025,HOME & KITCHEN,west,Net Banking,12.0,193.59,2323.08
+1269,2025-03-23,toys,  South  ,Cash,9.0,24.97,224.73
+1153,2025-02-16,home & kitchen,South,Net Banking,14.0,273.17,3824.38
+1910,03/10/2025,ELECTRONICS,  North  ,Credit Card,4.0,,
+1585,2025-06-27,books,WEST,Credit Card,9.0,464.67,4182.03
+2039,12-Nov-2025,  Toys  ,East,Net Banking,23.0,156.34,3595.82
+1104,02/01/2025,electronics,North,UPI,13.0,352.56,4583.28
+1594,30/06/2025,Toys,north,Debit Card,9.0,127.1,1143.9
+2126,08/12/2025,clothing,East,Cash,1.0,325.88,325.88
+1787,27-Aug-2025,Electronics,West,Cash,11.0,,
+1720,08/07/2025,Electronics,East,UPI,4.0,408.26,1633.04
+1885,2025-09-26,Home & Kitchen,west,Debit Card,22.0,413.05,9087.1
+1777,2025-08-24,Electronics,south,UPI,5.0,176.17,880.85
+1957,2025-10-18,Home & Kitchen,East,Debit Card,2.0,45.39,90.78
+1850,15/09/2025,clothing,West,UPI,10.0,46.34,463.4
+1895,29-Sep-2025,  Sports  ,south,,17.0,494.27,8402.59
+1228,03/10/2025,sports,East,Net Banking,21.0,99.51,2089.71
+2174,23/12/2025,Home & Kitchen,SOUTH,UPI,3.0,485.62,1456.86
+1302,02/04/2025,Electronics,North,Credit Card,14.0,109.76,1536.64
+1855,17-Sep-2025,home & kitchen,East,Debit Card,21.0,223.84,4700.64
+1276,03/25/2025,books,North,Debit Card,18.0,159.83,2876.94
+1127,08-Feb-2025,  Toys  ,North,UPI,13.0,282.54,3673.02
+1406,03/05/2025,Books,East,Cash,9.0,45.95,413.55
+1776,08/24/2025,Clothing,north,Debit Card,9.0,365.54,3289.86
+1822,07/09/2025,Clothing,SOUTH,Debit Card,3.0,19.18,57.54
+1712,08/04/2025,Sports,  North  ,Debit Card,24.0,308.33,7399.92
+1766,21/08/2025,  Clothing  ,  South  ,Debit Card,1.0,259.48,259.48
+1684,07/27/2025,CLOTHING,West,Cash,23.0,108.48,2495.04
+1750,16/08/2025,Electronics,north,,20.0,377.44,7548.8
+2151,16-Dec-2025,Toys,North,Net Banking,11.0,44.24,486.64
+1037,2025-01-11,Toys,South,Credit Card,6.0,,
+1140,02/12/2025,Electronics,East,UPI,2.0,228.39,456.78
+1304,04/02/2025,Electronics,South,Credit Card,4.0,490.65,1962.6
+1268,03/23/2025,CLOTHING,  South  ,Credit Card,2.0,124.54,249.08
+1835,11-Sep-2025,Toys,north,Credit Card,3.0,452.6,1357.8
+1534,11/06/2025,Sports,North,UPI,22.0,306.12,6734.64
+1546,15/06/2025,Clothing,South,Debit Card,8.0,464.93,3719.44
+1213,2025-03-06,SPORTS,east,Cash,20.0,255.99,5119.8
+1897,2025-09-30,Sports,East,,10.0,397.94,3979.4
+1469,2025-05-23,TOYS,South,,5.0,485.11,2425.55
+1199,02-Mar-2025,HOME & KITCHEN,south,Cash,5.0,328.8,1644.0
+2053,2025-11-16,Home & Kitchen,East,Cash,5.0,366.47,1832.35
+1868,09/21/2025,books,WEST,UPI,5.0,341.45,1707.25
+1673,2025-07-24,Home & Kitchen,NORTH,Net Banking,16.0,308.92,4942.72
+1917,2025-10-06,  Electronics  ,West,Net Banking,7.0,24.87,174.09
+1528,06/09/2025,BOOKS,west,Debit Card,3.0,17.36,52.08
+1676,07/24/2025,  Home & Kitchen  ,NORTH,UPI,16.0,182.81,2924.96
+2079,24-Nov-2025,Sports,west,Debit Card,9.0,129.89,1169.01
+1815,05-Sep-2025,Sports,east,UPI,19.0,434.86,8262.34
+1242,15/03/2025,HOME & KITCHEN,west,Net Banking,13.0,20.42,265.46
+1343,14-Apr-2025,Electronics,WEST,Cash,1.0,461.05,461.05
+1550,16/06/2025,Home & Kitchen,South,Credit Card,10.0,414.29,4142.9
+1387,28-Apr-2025,Clothing,South,Debit Card,17.0,380.85,6474.45
+2130,09/12/2025,home & kitchen,west,Credit Card,13.0,326.14,4239.82
+1967,21-Oct-2025,TOYS,South,UPI,21.0,29.96,629.16
+1207,04-Mar-2025,Books,north,UPI,17.0,105.12,1787.04
+1296,03/31/2025,Books,EAST,Debit Card,3.0,118.29,354.87
+1696,07/30/2025,  Electronics  ,  North  ,Credit Card,21.0,466.61,9798.81
+2064,11/19/2025,Books,EAST,,10.0,58.48,584.8
+1074,23/01/2025,  Books  ,  West  ,Credit Card,15.0,118.65,1779.75
+1606,03/07/2025,Home & Kitchen,South,Net Banking,7.0,333.44,2334.08
+1105,2025-02-01,Electronics,east,UPI,4.0,89.99,359.96
+2029,2025-11-09,Electronics,East,Debit Card,7.0,,
+2121,2025-12-07,Electronics,west,Credit Card,7.0,442.22,3095.54
+2198,30/12/2025,Books,SOUTH,UPI,14.0,194.69,2725.66
+1017,2025-01-05,TOYS,east,Debit Card,2.0,36.68,73.36
+1440,05/14/2025,TOYS,EAST,Debit Card,17.0,244.17,4150.89
+1092,01/28/2025,SPORTS,  East  ,Credit Card,12.0,126.45,1517.4
+1089,2025-01-27,sports,SOUTH,Credit Card,16.0,115.07,1841.12
+2063,19-Nov-2025,Clothing,  North  ,Cash,3.0,481.92,1445.76
+1909,2025-10-03,TOYS,EAST,Cash,19.0,104.76,1990.44
+1451,17-May-2025,Home & Kitchen,East,,17.0,91.87,1561.79
+1718,06/08/2025,Clothing,south,Debit Card,5.0,204.59,1022.95
+1103,31-Jan-2025,ELECTRONICS,West,Cash,11.0,349.73,3847.03
+1239,14-Mar-2025,Clothing,North,Cash,9.0,350.98,3158.82
+1069,2025-01-21,clothing,East,UPI,4.0,307.22,1228.88
+1943,13-Oct-2025,clothing,east,Debit Card,3.0,374.8,1124.4
+1247,16-Mar-2025,Toys,North,Cash,8.0,280.88,2247.04
+1939,12-Oct-2025,  Toys  ,SOUTH,Debit Card,13.0,117.0,1521.0
+2196,12/29/2025,Electronics,South,Cash,8.0,301.73,2413.84
+1158,17/02/2025,Home & Kitchen,WEST,Credit Card,7.0,190.86,1336.02
+1480,05/26/2025,Books,West,Debit Card,22.0,338.02,7436.44
+1839,12-Sep-2025,electronics,west,Cash,21.0,215.93,4534.53
+1646,15/07/2025,sports,West,UPI,14.0,290.54,4067.56
+1006,02/01/2025,Clothing,west,Credit Card,10.0,448.2,4482.0
+2104,12/01/2025,SPORTS,West,Cash,19.0,209.08,3972.52
+1872,09/22/2025,electronics,NORTH,Credit Card,5.0,350.1,1750.5
+1966,20/10/2025,Clothing,West,UPI,19.0,482.82,9173.58
+1019,06-Jan-2025,CLOTHING,SOUTH,Debit Card,3.0,149.73,449.19
+2026,08/11/2025,toys,east,Cash,5.0,123.95,619.75
+1122,06/02/2025,ELECTRONICS,South,Credit Card,6.0,212.54,1275.24
+1947,15-Oct-2025,home & kitchen,East,Debit Card,18.0,304.97,5489.46
+1662,20/07/2025,Electronics,west,Net Banking,12.0,410.28,4923.36
+2025,2025-11-07,  Toys  ,East,UPI,22.0,197.42,4343.24
+1275,25-Mar-2025,Books,  North  ,UPI,19.0,285.26,5419.94
+1434,12/05/2025,  Sports  ,east,UPI,13.0,445.31,5789.03
+1812,09/04/2025,ELECTRONICS,east,UPI,8.0,487.47,3899.76
+2156,12/17/2025,SPORTS,  South  ,Cash,13.0,76.02,988.26
+1312,04/05/2025,Sports,  East  ,Debit Card,13.0,340.38,4424.94
+2140,12/12/2025,toys,West,Net Banking,18.0,,
+2152,12/16/2025,Books,NORTH,Cash,9.0,285.1,2565.9
+1781,2025-08-25,ELECTRONICS,West,Net Banking,2.0,,
+1547,15-Jun-2025,Sports,South,Debit Card,12.0,196.72,2360.64
+1182,24/02/2025,Electronics,EAST,UPI,17.0,384.42,6535.14
+1185,2025-02-25,ELECTRONICS,East,Debit Card,22.0,377.11,8296.42
+1407,04-May-2025,Electronics,North,UPI,2.0,244.85,489.7
+1866,20/09/2025,SPORTS,  North  ,Debit Card,15.0,183.73,2755.95
+1521,2025-06-07,electronics,NORTH,Credit Card,1282.0,253.13,324512.66
+2004,11/01/2025,Toys,East,UPI,8.0,459.61,3676.88
+1381,2025-04-26,toys,WEST,Credit Card,18.0,237.21,4269.78
+1428,05/10/2025,TOYS,east,Debit Card,10.0,389.64,3896.4
+1079,24-Jan-2025,Books,North,Credit Card,3.0,367.54,1102.62
+2010,03/11/2025,TOYS,South,Cash,5.0,63.52,317.6
+1191,02/27/2025,Home & Kitchen,SOUTH,UPI,13.0,372.42,4841.46
+1608,07/04/2025,Electronics,NORTH,Net Banking,10.0,204.19,2041.9
+2081,2025-11-24,Books,East,Credit Card,20.0,308.75,6175.0
+2110,03/12/2025,TOYS,West,Credit Card,16.0,192.03,3072.48
+1538,2025-06-13,Electronics,North,Debit Card,4.0,401.72,1606.88
+1959,18-Oct-2025,electronics,north,,4.0,18.79,75.16
+1560,06/19/2025,ELECTRONICS,north,Net Banking,7.0,307.67,2153.69
+1847,14-Sep-2025,  Books  ,East,Credit Card,22.0,,
+1691,29-Jul-2025,SPORTS,  West  ,Debit Card,19.0,405.16,7698.04
+2185,2025-12-26,CLOTHING,east,Credit Card,4.0,475.51,1902.04
+2138,12/12/2025,ELECTRONICS,East,Credit Card,18.0,67.78,1220.04
+1437,2025-05-13,Books,West,Net Banking,24.0,247.25,5934.0
+1491,29-May-2025,  Toys  ,,Credit Card,7.0,80.26,561.82
+1917,2025-10-06,  Electronics  ,  West  ,Net Banking,7.0,24.87,174.09
+2119,06-Dec-2025,SPORTS,east,Debit Card,13.0,203.35,2643.55
+1070,21/01/2025,Toys,West,UPI,5.0,84.38,421.9
+1809,2025-09-03,TOYS,WEST,Net Banking,18.0,120.74,2173.32
+1012,01/04/2025,  Home & Kitchen  ,west,Net Banking,7.0,354.2,2479.4
+1145,2025-02-13,  Home & Kitchen  ,,Net Banking,19.0,42.47,806.93
+1918,06/10/2025,toys,West,UPI,6.0,445.51,2673.06
+1640,07/13/2025,Clothing,SOUTH,UPI,1.0,202.76,202.76
+1177,2025-02-23,Books,North,UPI,5.0,7.63,38.15
+1995,29-Oct-2025,sports,  South  ,Net Banking,3.0,13.04,39.12
+1441,2025-05-14,Sports,SOUTH,Net Banking,4.0,419.92,1679.68
+1522,08/06/2025,Books,NORTH,Net Banking,2.0,29.87,59.74
+2005,2025-11-01,  Books  ,  North  ,Cash,1.0,326.65,326.65
+1144,02/13/2025,sports,North,UPI,23.0,235.82,5423.86
+1754,17/08/2025,Sports,East,Debit Card,3.0,,
+1520,06/07/2025,  Clothing  ,South,Cash,6.0,257.38,1544.28
+1823,07-Sep-2025,clothing,SOUTH,UPI,5.0,293.71,1468.55
+1429,2025-05-10,TOYS,  East  ,Debit Card,15.0,431.79,6476.85
+1613,2025-07-05,Clothing,North,Net Banking,21.0,347.07,7288.47
+2033,2025-11-10,Home & Kitchen,  South  ,Debit Card,20.0,268.28,5365.6
+1157,2025-02-17,HOME & KITCHEN,east,Debit Card,11.0,41.68,458.48
+1540,06/13/2025,Home & Kitchen,south,Credit Card,1.0,376.63,376.63
+1462,20/05/2025,Books,east,Debit Card,3.0,,
+1577,2025-06-24,  Home & Kitchen  ,  West  ,Debit Card,23.0,44.08,1013.84
+1256,03/19/2025,HOME & KITCHEN,North,Debit Card,16.0,413.58,6617.28
+1980,10/25/2025,Books,North,UPI,10.0,150.21,1502.1
+2007,02-Nov-2025,Home & Kitchen,East,Cash,,204.0,
+1561,2025-06-20,Books,north,Debit Card,20.0,340.86,6817.2
+1209,2025-03-05,Toys,North,Net Banking,19.0,124.54,2366.26
+1911,04-Oct-2025,  Sports  ,  South  ,Debit Card,17.0,346.1,5883.7
+1002,01/01/2025,  Sports  ,West,Debit Card,2.0,294.3,588.6
+1270,23/03/2025,Clothing,East,Credit Card,24.0,208.54,5004.96
+1266,22/03/2025,Electronics,EAST,Cash,16.0,429.72,6875.52
+1915,05-Oct-2025,Toys,south,Net Banking,8.0,13.02,104.16
+1231,11-Mar-2025,Toys,  West  ,Debit Card,19.0,,
+1818,06-Sep-2025,Electronics,East,Credit Card,14.0,30.06,420.84
+2034,10-Nov-2025,  Sports  ,south,Credit Card,22.0,,
+1865,2025-09-20,ELECTRONICS,East,Cash,4.0,137.75,551.0
+2067,20-Nov-2025,  Clothing  ,west,Net Banking,16.0,272.98,4367.68
+1874,23/09/2025,  Books  ,West,UPI,19.0,322.54,6128.26
+2090,27/11/2025,Home & Kitchen,west,Debit Card,22.0,352.36,7751.92
+1399,01-May-2025,ELECTRONICS,East,,6.0,35.97,215.82
+2113,2025-12-04,Sports,  South  ,Credit Card,22.0,255.44,5619.68
+1046,14/01/2025,Electronics,North,UPI,9.0,181.66,1634.94
+1162,18/02/2025,clothing,North,Debit Card,,281.73,
+1992,10/28/2025,CLOTHING,East,Cash,14.0,11431.867610627862,160046.15
+1728,08/09/2025,Home & Kitchen,  East  ,,2.0,330.79,661.58
+1630,10/07/2025,CLOTHING,South,UPI,18.0,275.61,4960.98
+1289,2025-03-29,Home & Kitchen,SOUTH,UPI,13.0,,
+2060,11/18/2025,Clothing,,Net Banking,17.0,425.73,7237.41
+2193,2025-12-28,sports,WEST,Credit Card,23.0,323.76,7446.48
+1576,06/24/2025,Electronics,  South  ,Net Banking,1.0,173.29,173.29
+1851,16-Sep-2025,clothing,west,Debit Card,8.0,109.51,876.08
+1912,10/04/2025,ELECTRONICS,south,Cash,9.0,412.52,3712.68
+2106,02/12/2025,HOME & KITCHEN,west,UPI,21.0,129.19,2712.99
+1933,2025-10-10,ELECTRONICS,  West  ,Net Banking,3.0,303.56,910.68
+2101,2025-11-30,Toys,West,Debit Card,2.0,200.99,401.98
+1248,03/16/2025,Sports,South,Net Banking,19.0,24.29,461.51
+1477,2025-05-25,TOYS,East,Cash,11.0,423.33,4656.63
+1086,26/01/2025,Books,,Debit Card,5.0,124.56,622.8
+1470,23/05/2025,TOYS,EAST,Net Banking,13.0,287.77,3741.01
+1226,10/03/2025,toys,South,Credit Card,17.0,165.63,2815.71
+1775,23-Aug-2025,ELECTRONICS,,Cash,9.0,,
+1332,04/11/2025,Toys,South,UPI,7.0,306.8,2147.6
+1234,12/03/2025,HOME & KITCHEN,  South  ,Net Banking,4.0,408.4,1633.6
+1589,2025-06-28,home & kitchen,North,Net Banking,15.0,299.63,4494.45
+1476,05/25/2025,Sports,south,UPI,6.0,280.61,1683.66
+1600,07/01/2025,HOME & KITCHEN,  South  ,Net Banking,11.0,452.66,4979.26
+1422,08/05/2025,  Clothing  ,  South  ,Debit Card,5.0,33.2,166.0
+1183,25-Feb-2025,  Home & Kitchen  ,west,Credit Card,5.0,14636.837456182726,73184.19
+1989,2025-10-27,toys,EAST,UPI,5.0,5.55,27.75
+2001,2025-10-31,  Toys  ,west,Cash,18.0,71.62,1289.16
+1050,15/01/2025,Books,North,Credit Card,742.0,157.36,116761.12
+2145,2025-12-14,electronics,South,Credit Card,15.0,299.64,4494.6
+2030,09/11/2025,Clothing,  West  ,Net Banking,4.0,92.56,370.24
+1530,10/06/2025,Electronics,East,Cash,15.0,122.55,1838.25
+1487,28-May-2025,TOYS,West,,2.0,435.98,871.96
+1498,31/05/2025,CLOTHING,SOUTH,UPI,21.0,149.27,3134.67
+1107,02-Feb-2025,Home & Kitchen,west,Credit Card,22.0,208.92,4596.24
+1444,05/15/2025,Home & Kitchen,South,UPI,21.0,206.37,4333.77
+1647,16-Jul-2025,Clothing,NORTH,Net Banking,5.0,234.67,1173.35
+2037,2025-11-11,toys,East,Debit Card,23.0,407.17,9364.91
+1727,09-Aug-2025,ELECTRONICS,East,Credit Card,8.0,339.53,2716.24
+1191,27-Feb-2025,Home & Kitchen,South,UPI,13.0,372.42,4841.46
+1283,27-Mar-2025,Sports,West,Debit Card,1.0,24.27,24.27
+1030,09/01/2025,Home & Kitchen,South,Credit Card,13.0,329.31,4281.03
+1170,21/02/2025,BOOKS,East,Debit Card,17.0,362.76,6166.92
+2002,31/10/2025,SPORTS,,Debit Card,20.0,51.74,1034.8
+1101,2025-01-31,Sports,EAST,Net Banking,24.0,217.33,5215.92
+1198,01/03/2025,books,north,UPI,7.0,9376.872350728549,65638.11
+1496,05/31/2025,books,,UPI,12.0,460.77,5529.24
+1648,07/16/2025,  Electronics  ,North,Credit Card,6.0,63.76,382.56
+1988,10/27/2025,Sports,south,Debit Card,19.0,151.43,2877.17
+1045,2025-01-14,Sports,NORTH,Cash,,270.1,
+1711,04-Aug-2025,BOOKS,North,Cash,20.0,62.6,1252.0
+1374,24/04/2025,  Home & Kitchen  ,NORTH,Debit Card,23.0,427.01,9821.23
+1679,25-Jul-2025,Sports,NORTH,UPI,11.0,241.29,2654.19
+1567,21-Jun-2025,SPORTS,north,Credit Card,4.0,,
+1848,09/15/2025,Clothing,North,Net Banking,6.0,172.04,1032.24
+1461,2025-05-20,Electronics,  West  ,Net Banking,14.0,287.58,4026.12
+1040,01/12/2025,Books,WEST,UPI,11.0,59.66,656.26
+1435,12-May-2025,  Books  ,West,Net Banking,5.0,188.88,944.4
+1974,23/10/2025,Books,  West  ,Cash,16.0,302.45,4839.2
+2008,11/02/2025,TOYS,South,Cash,21.0,365.82,7682.22
+1457,2025-05-19,Sports,North,Net Banking,3.0,278.57,835.71
+1261,2025-03-20,ELECTRONICS,  North  ,Net Banking,3.0,51.98,155.94
+1036,01/11/2025,Toys,EAST,Credit Card,24.0,333.79,8010.96
+1828,09/09/2025,Home & Kitchen,NORTH,UPI,8.0,296.23,2369.84
+1310,04/04/2025,Toys,North,Cash,14.0,230.11,3221.54
+1277,2025-03-25,electronics,South,Net Banking,8.0,,
+1637,2025-07-13,books,West,Credit Card,11.0,285.47,3140.17
+1655,18-Jul-2025,Sports,East,Debit Card,13.0,331.07,4303.91
+1623,08-Jul-2025,SPORTS,South,Credit Card,20.0,147.53,2950.6
+1845,2025-09-14,home & kitchen,east,Cash,21.0,465.55,9776.55
+1394,30/04/2025,Sports,South,Net Banking,23.0,120.09,2762.07
+1108,02/02/2025,home & kitchen,NORTH,Cash,11.0,435.91,4795.01
+1350,16/04/2025,ELECTRONICS,SOUTH,Credit Card,21.0,46.86,984.06
+1525,2025-06-09,Books,West,,4.0,221.9,887.6
+1785,2025-08-27,Electronics,West,Cash,4.0,17.76,71.04
+1048,01/15/2025,Books,West,UPI,6.0,415.14,2490.84
+1204,03/03/2025,Toys,  East  ,UPI,14.0,239.59,3354.26
+1022,07/01/2025,electronics,south,Debit Card,2.0,154.02,308.04
+1403,03-May-2025,Electronics,North,Cash,1.0,174.61,174.61
+2108,12/03/2025,TOYS,North,Cash,22.0,294.35,6475.7
+2155,17-Dec-2025,clothing,north,Net Banking,20.0,151.68,3033.6
+1990,28/10/2025,Books,South,Credit Card,8.0,139.62,1116.96
+1742,13/08/2025,Books,North,Net Banking,24.0,479.27,11502.48
+2148,12/15/2025,Sports,SOUTH,Credit Card,19.0,176.01,3344.19
+1034,11/01/2025,Books,North,Cash,17.0,39.89,678.13
+1788,08/27/2025,  Clothing  ,South,Debit Card,24.0,345.58,8293.92
+1924,10/08/2025,ELECTRONICS,east,Net Banking,2.0,433.45,866.9
+2044,11/13/2025,BOOKS,East,Debit Card,24.0,70.94,1702.56
+2181,2025-12-25,Sports,West,UPI,10.0,468.29,4682.9
+1580,06/25/2025,books,North,Net Banking,13.0,174.98,2274.74
+1482,27/05/2025,Home & Kitchen,EAST,UPI,4.0,113.01,452.04
+1932,10/10/2025,Books,East,UPI,21.0,299.15,6282.15
+1357,2025-04-19,sports,east,Debit Card,10.0,443.62,4436.2
+1760,08/19/2025,Sports,East,Debit Card,13.0,218.49,2840.37
+1093,2025-01-28,CLOTHING,North,Net Banking,6.0,33.58,201.48
+2176,12/23/2025,BOOKS,  North  ,Credit Card,11.0,362.42,3986.62
+1804,09/01/2025,CLOTHING,West,Cash,4.0,54.62,218.48
+1746,15/08/2025,BOOKS,WEST,UPI,1.0,458.63,458.63
+1280,03/26/2025,Toys,  East  ,Net Banking,7.0,383.35,2683.45
+1765,2025-08-20,ELECTRONICS,EAST,Cash,4.0,244.59,978.36
+1605,2025-07-03,Electronics,West,Debit Card,12.0,110.16,1321.92
+1190,27/02/2025,TOYS,west,Net Banking,22.0,312.13,6866.86
+1401,2025-05-02,Books,North,UPI,12.0,405.47,4865.64
+1258,20/03/2025,Books,east,Debit Card,22.0,128.26,2821.72
+1945,2025-10-14,Clothing,south,Cash,4.0,34.67,138.68
+2097,2025-11-29,Electronics,WEST,Cash,16.0,384.43,6150.88
+2162,19/12/2025,SPORTS,WEST,Debit Card,,378.79,
+1495,30-May-2025,SPORTS,NORTH,Credit Card,6.0,245.63,1473.78
+1773,2025-08-23,Electronics,  East  ,Net Banking,,489.29,
+1551,16-Jun-2025,  Electronics  ,north,UPI,15.0,264.74,3971.1
+1202,03/03/2025,BOOKS,West,Debit Card,20.0,318.03,6360.6
+1313,2025-04-05,Electronics,South,Debit Card,2.0,189.7,379.4
+1291,30-Mar-2025,Toys,  North  ,Cash,8.0,495.39,3963.12
+1764,08/20/2025,SPORTS,,Debit Card,18.0,422.89,7612.02
+2137,2025-12-11,Sports,North,Debit Card,10.0,172.35,1723.5
+1950,16/10/2025,toys,North,Net Banking,11.0,368.4,4052.4
+1184,02/25/2025,Toys,South,Cash,4.0,392.07,1568.28
+2177,2025-12-24,Books,NORTH,Cash,16.0,24.94,399.04
+2069,2025-11-21,Electronics,SOUTH,Debit Card,24.0,33.23,797.52
+2031,09-Nov-2025,Home & Kitchen,West,Credit Card,1.0,493.73,493.73
+1251,17-Mar-2025,Books,  East  ,UPI,5.0,449.47,2247.35
+1824,09/07/2025,CLOTHING,,Cash,1.0,10.59,10.59
+2100,11/30/2025,Books,,Debit Card,4.0,339.45,1357.8
+1941,2025-10-13,Books,South,Cash,1.0,120.5,120.5
+1392,04/29/2025,Home & Kitchen,South,Debit Card,6.0,166.5,999.0
+2093,2025-11-28,TOYS,NORTH,,15.0,456.11,6841.65
+2192,12/28/2025,Clothing,South,Credit Card,1.0,222.73,222.73
+1905,2025-10-02,CLOTHING,South,Debit Card,5.0,216.61,1083.05
+1731,10-Aug-2025,TOYS,west,Net Banking,16.0,94.98,1519.68
+1555,18-Jun-2025,clothing,,Debit Card,6.0,,
+1367,22-Apr-2025,HOME & KITCHEN,east,UPI,20.0,235.18,4703.6
+1346,15/04/2025,Sports,South,Net Banking,21.0,180.69,3794.49
+1536,06/12/2025,home & kitchen,  East  ,Net Banking,24.0,90.88,2181.12
+1665,21/07/2025,books,south,UPI,16.0,485.01,7760.16
+1920,10/06/2025,Sports,South,Debit Card,15.0,150.56,2258.4
+1212,03/06/2025,ELECTRONICS,North,UPI,,454.38,
+1503,02-Jun-2025,Toys,  East  ,UPI,4.0,235.82,943.28
+1538,13/06/2025,Electronics,north,Debit Card,4.0,401.72,1606.88
+2007,2025-11-02,Home & Kitchen,EAST,Cash,,204.0,
+1176,02/23/2025,CLOTHING,EAST,Debit Card,19.0,244.57,4646.83
